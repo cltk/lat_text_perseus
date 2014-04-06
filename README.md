@@ -1,5 +1,5 @@
-About the Perseus Project
-=========================
+About
+-----
 
 This repository holds the Latin files made available by the [Perseus Project](http://www.perseus.tufts.edu/hopper/opensource/download). See the [CLTK's docs](http://cltk.readthedocs.org/en/latest/index.html) for instructions how to use these files.
 
