@@ -13,7 +13,7 @@
 </titleStmt>
 &Perseus.publish;
 <sourceDesc>
-<biblstruct>
+<biblStruct>
 <monogr>
 <title>Letters</title>
 <author>Pliny the Younger</author>
@@ -23,7 +23,7 @@
 <date></date>
 </imprint>
 </monogr>
-</biblstruct>
+</biblStruct>
 </sourceDesc>
 </fileDesc>
 
