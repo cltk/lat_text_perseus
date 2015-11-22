@@ -1,0 +1,7413 @@
+[
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": {
+                "@unit": "book"
+            }
+        },
+        "name": "Ammianus",
+        "title": "amm.rolfe1_intro.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": {
+                "@unit": "book"
+            }
+        },
+        "name": "Ammianus",
+        "title": "amm.rolfe2_intro.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": {
+                "@unit": "book"
+            }
+        },
+        "name": "Ammianus",
+        "title": "amm.rolfe3_intro.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@unit": "book"
+                },
+                {
+                    "@unit": "chapter"
+                },
+                {
+                    "@unit": "section"
+                }
+            ]
+        },
+        "name": "Ammianus",
+        "title": "amm_eng.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@unit": "book"
+                },
+                {
+                    "@unit": "chapter"
+                },
+                {
+                    "@unit": "section"
+                }
+            ]
+        },
+        "name": "Ammianus",
+        "title": "amm_lat.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": {
+                "@unit": "section"
+            }
+        },
+        "name": "Apuleius",
+        "title": "apuleius.ap_lat.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": {
+                "@unit": "section"
+            }
+        },
+        "name": "Apuleius",
+        "title": "apuleius.fl_lat.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@unit": "book"
+                },
+                {
+                    "@n": "chunk",
+                    "@unit": "chapter"
+                }
+            ]
+        },
+        "name": "Apuleius",
+        "title": "apuleius.ga_lat.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@unit": "letter"
+                },
+                {
+                    "@unit": "section"
+                }
+            ]
+        },
+        "name": "Augustine",
+        "title": "august.sellet_lat.xml.json"
+    },
+    {
+        "encoding": [
+            {
+                "state": [
+                    {
+                        "@delim": ".",
+                        "@unit": "book"
+                    },
+                    {
+                        "@n": "chunk",
+                        "@unit": "chapter"
+                    }
+                ]
+            },
+            {
+                "state": {
+                    "@unit": "folio page"
+                }
+            }
+        ],
+        "name": "Bede",
+        "title": "bede.hega_lat.xml.json"
+    },
+    {
+        "encoding": [
+            {
+                "@doctype": "TEI.2",
+                "state": [
+                    {
+                        "@unit": "text"
+                    },
+                    {
+                        "@unit": "chapter"
+                    },
+                    {
+                        "@n": "chunk",
+                        "@unit": "section"
+                    }
+                ]
+            },
+            {
+                "@doctype": "TEI.2",
+                "@n": "text=comm",
+                "state": [
+                    {
+                        "@unit": "text"
+                    },
+                    {
+                        "@delim": ".",
+                        "@unit": "book"
+                    },
+                    {
+                        "@unit": "chapter"
+                    },
+                    {
+                        "@n": "chunk",
+                        "@unit": "smythp"
+                    }
+                ]
+            },
+            {
+                "@doctype": "TEI.2",
+                "@n": "text=intro",
+                "state": [
+                    {
+                        "@unit": "text"
+                    },
+                    {
+                        "@unit": "chapter"
+                    },
+                    {
+                        "@n": "chunk",
+                        "@unit": "section"
+                    }
+                ]
+            }
+        ],
+        "name": "Caesar",
+        "title": "ag.caes.bg_eng.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@delim": ".",
+                    "@unit": "book"
+                },
+                {
+                    "@n": "chunk",
+                    "@unit": "chapter"
+                },
+                {
+                    "@unit": "section"
+                }
+            ]
+        },
+        "name": "Caesar",
+        "title": "caes.bc_eng.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@delim": ".",
+                    "@unit": "book"
+                },
+                {
+                    "@n": "chunk",
+                    "@unit": "chapter"
+                },
+                {
+                    "@unit": "section"
+                }
+            ]
+        },
+        "name": "Caesar",
+        "title": "caes.bc_lat.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@delim": ".",
+                    "@unit": "book"
+                },
+                {
+                    "@unit": "chapter"
+                },
+                {
+                    "@unit": "section"
+                }
+            ]
+        },
+        "name": "Caesar",
+        "title": "caes.bg_eng.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@delim": ".",
+                    "@unit": "book"
+                },
+                {
+                    "@unit": "chapter"
+                },
+                {
+                    "@unit": "section"
+                }
+            ]
+        },
+        "name": "Caesar",
+        "title": "caes.bg_lat.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@delim": ".",
+                    "@unit": "poem"
+                },
+                {
+                    "@unit": "line"
+                }
+            ]
+        },
+        "name": "Catullus",
+        "title": "cat.burton_eng.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "step": [
+                {
+                    "@delim": ".",
+                    "@from": "DESCENDANT (1 DIV1 N %1)",
+                    "@refunit": "poem"
+                },
+                {
+                    "@from": "DESCENDANT (1 MILESTONE UNIT line N %2)",
+                    "@refunit": "line"
+                }
+            ]
+        },
+        "name": "Catullus",
+        "title": "cat.smithers_eng.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "step": [
+                {
+                    "@delim": ".",
+                    "@from": "DESCENDANT (1 DIV2 TYPE POEM N %1)",
+                    "@refunit": "poem"
+                },
+                {
+                    "@from": "DESCENDANT (1 L N %2)",
+                    "@refunit": "line"
+                }
+            ]
+        },
+        "name": "Catullus",
+        "title": "cat_lat.xml.json"
+    },
+    {
+        "encoding": [
+            {
+                "@doctype": "TEI.2",
+                "@n": "text=comm",
+                "step": [
+                    {
+                        "@from": "DESCENDANT (1 TEXT)",
+                        "@refunit": "text"
+                    },
+                    {
+                        "@delim": ".",
+                        "@from": "DESCENDANT (1 DIV1 N %1)",
+                        "@refunit": "poem"
+                    },
+                    {
+                        "@from": "DESCENDANT (1 DIV2 line N %2)",
+                        "@n": "chunk",
+                        "@refunit": "commline"
+                    }
+                ]
+            },
+            {
+                "@doctype": "TEI.2",
+                "@n": "text=intro",
+                "state": [
+                    {
+                        "@unit": "text"
+                    },
+                    {
+                        "@unit": "section"
+                    },
+                    {
+                        "@unit": "para"
+                    }
+                ]
+            }
+        ],
+        "name": "Catullus",
+        "title": "merrill.cat_eng.xml.json"
+    },
+    {
+        "encoding": {
+            "state": {
+                "@unit": "section"
+            }
+        },
+        "name": "Celsus",
+        "title": "cels_darem_intro.xml.json"
+    },
+    {
+        "encoding": [
+            {
+                "state": [
+                    {
+                        "@unit": "book"
+                    },
+                    {
+                        "@n": "chunk",
+                        "@unit": "chapter"
+                    },
+                    {
+                        "@unit": "section"
+                    }
+                ]
+            },
+            {
+                "state": {
+                    "@unit": "page"
+                }
+            }
+        ],
+        "name": "Celsus",
+        "title": "cels_darem_lat.xml.json"
+    },
+    {
+        "encoding": [
+            {
+                "state": [
+                    {
+                        "@unit": "book"
+                    },
+                    {
+                        "@n": "chunk",
+                        "@unit": "chapter"
+                    }
+                ]
+            },
+            {
+                "state": {
+                    "@unit": "page"
+                }
+            }
+        ],
+        "name": "Celsus",
+        "title": "cels_eng.xml.json"
+    },
+    {
+        "encoding": [
+            {
+                "state": [
+                    {
+                        "@unit": "book"
+                    },
+                    {
+                        "@n": "chunk",
+                        "@unit": "chapter"
+                    }
+                ]
+            },
+            {
+                "state": {
+                    "@unit": "page"
+                }
+            }
+        ],
+        "name": "Celsus",
+        "title": "cels_lat.xml.json"
+    },
+    {
+        "encoding": {
+            "state": [
+                {
+                    "@unit": "book"
+                },
+                {
+                    "@n": "chunk",
+                    "@unit": "chapter"
+                },
+                {
+                    "@unit": "section"
+                }
+            ]
+        },
+        "name": "Celsus",
+        "title": "cels_marx_lat.xml.json"
+    },
+    {
+        "encoding": [
+            {
+                "@doctype": "TEI.2",
+                "@n": "text=comm",
+                "state": [
+                    {
+                        "@unit": "text"
+                    },
+                    {
+                        "@unit": "coll"
+                    },
+                    {
+                        "@unit": "book"
+                    },
+                    {
+                        "@n": "chunk",
+                        "@unit": "letter"
+                    },
+                    {
+                        "@unit": "chapter"
+                    },
+                    {
+                        "@n": "chunk",
+                        "@unit": "section"
+                    }
+                ]
+            },
+            {
+                "@doctype": "TEI.2",
+                "@n": "text=intro",
+                "state": [
+                    {
+                        "@unit": "text"
+                    },
+                    {
+                        "@unit": "chapter"
+                    },
+                    {
+                        "@n": "chunk",
+                        "@unit": "section"
+                    }
+                ]
+            }
+        ],
+        "name": "Cicero",
+        "title": "abb.cic_eng.xml.json"
+    },
+    {
+        "encoding": [
+            {
+                "@doctype": "TEI.2",
+                "@n": "text=introduction",
+                "state": [
+                    {
+                        "@unit": "text"
+                    },
+                    {
+                        "@unit": "chapter"
+                    },
+                    {
+                        "@n": "chunk",
+                        "@unit": "section"
+                    }
+                ]
+            },
+            {
+                "@doctype": "TEI.2",
+                "@n": "text=S. Rosc.",
+                "state": [
+                    {
+                        "@unit": "text"
+                    },
+                    {
+                        "@unit": "speech"
+                    },
+                    {
+                        "@unit": "overv"
+                    },
+                    {
+                        "@n": "chunk",
+                        "@unit": "summary"
+                    },
+                    {
+                        "@unit": "section"
+                    }
+                ]
+            },
+            {
+                "@doctype": "TEI.2",
+                "@n": "text=Ver.;text=Catil.;text=Phil.",
+                "state": [
+                    {
+                        "@unit": "text"
+                    },
+                    {
+                        "@unit": "speech"
+                    },
+                    {
+                        "@n": "chunk",
+                        "@unit": "chapter"
+                    },
+                    {
+                        "@unit": "section"
+                    }
+                ]
+            },
+            {
+                "@doctype": "TEI.2",
+                "state": [
+                    {
+                        "@unit": "text"
+                    },
+                    {
+                        "@n": "chunk",
+                        "@unit": "section"
+                    }
+                ]
+            }
+        ],
+        "name": "Cicero",
+        "title": "ag.cic_eng.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@unit": "book"
+                },
+                {
+                    "@unit": "section"
+                }
+            ]
+        },
+        "name": "Cicero",
+        "title": "cic.ac_lat.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@delim": ".",
+                    "@unit": "book"
+                },
+                {
+                    "@delim": ".",
+                    "@unit": "letter"
+                },
+                {
+                    "@unit": "section"
+                }
+            ]
+        },
+        "name": "Cicero",
+        "title": "cic.ad.brut_lat.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": {
+                "@unit": "section"
+            }
+        },
+        "name": "Cicero",
+        "title": "cic.amic_falc_eng.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": {
+                "@unit": "chapter"
+            }
+        },
+        "name": "Cicero",
+        "title": "cic.amic_falc_intro.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "@n": "text=Amic",
+            "state": {
+                "@unit": "section"
+            }
+        },
+        "name": "Cicero",
+        "title": "cic.amic_falc_lat.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@delim": ".",
+                    "@unit": "book"
+                },
+                {
+                    "@delim": ".",
+                    "@unit": "letter"
+                },
+                {
+                    "@unit": "section"
+                }
+            ]
+        },
+        "name": "Cicero",
+        "title": "cic.att_lat.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@delim": ".",
+                    "@n": "chunk",
+                    "@unit": "chapter"
+                },
+                {
+                    "@unit": "section"
+                }
+            ]
+        },
+        "name": "Cicero",
+        "title": "cic.brut_lat.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@unit": "book"
+                },
+                {
+                    "@unit": "section"
+                }
+            ]
+        },
+        "name": "Cicero",
+        "title": "cic.div_falc_eng.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": {
+                "@unit": "chapter"
+            }
+        },
+        "name": "Cicero",
+        "title": "cic.div_falc_intro.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "@n": "text=Div",
+            "state": [
+                {
+                    "@unit": "book"
+                },
+                {
+                    "@unit": "section"
+                }
+            ]
+        },
+        "name": "Cicero",
+        "title": "cic.div_falc_lat.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@unit": "book"
+                },
+                {
+                    "@unit": "section"
+                }
+            ]
+        },
+        "name": "Cicero",
+        "title": "cic.div_lat.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@delim": ".",
+                    "@unit": "book"
+                },
+                {
+                    "@delim": ".",
+                    "@unit": "letter"
+                },
+                {
+                    "@unit": "section"
+                }
+            ]
+        },
+        "name": "Cicero",
+        "title": "cic.fam_lat.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": {
+                "@unit": "section"
+            }
+        },
+        "name": "Cicero",
+        "title": "cic.fat_lat.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@unit": "book"
+                },
+                {
+                    "@unit": "section"
+                }
+            ]
+        },
+        "name": "Cicero",
+        "title": "cic.fin_lat.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": {
+                "@unit": "section"
+            }
+        },
+        "name": "Cicero",
+        "title": "cic.luc_lat.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@unit": "book"
+                },
+                {
+                    "@unit": "section"
+                }
+            ]
+        },
+        "name": "Cicero",
+        "title": "cic.n.d_lat.xml.json"
+    },
+    {
+        "encoding": [
+            {
+                "@doctype": "TEI.2",
+                "state": [
+                    {
+                        "@delim": " ",
+                        "@unit": "text"
+                    },
+                    {
+                        "@unit": "section"
+                    }
+                ]
+            },
+            {
+                "@doctype": "TEI.2",
+                "state": [
+                    {
+                        "@delim": " ",
+                        "@unit": "text"
+                    },
+                    {
+                        "@delim": ".",
+                        "@n": "chunk",
+                        "@unit": "chapter"
+                    },
+                    {
+                        "@unit": "section"
+                    }
+                ]
+            },
+            {
+                "@doctype": "TEI.2",
+                "@n": "text=Catil.",
+                "state": [
+                    {
+                        "@delim": " ",
+                        "@unit": "text"
+                    },
+                    {
+                        "@delim": ".",
+                        "@unit": "speech"
+                    },
+                    {
+                        "@unit": "section"
+                    }
+                ]
+            },
+            {
+                "@doctype": "TEI.2",
+                "@n": "text=Catil.",
+                "state": [
+                    {
+                        "@delim": " ",
+                        "@unit": "text"
+                    },
+                    {
+                        "@delim": ".",
+                        "@unit": "speech"
+                    },
+                    {
+                        "@delim": ".",
+                        "@n": "chunk",
+                        "@unit": "chapter"
+                    },
+                    {
+                        "@unit": "section"
+                    }
+                ]
+            }
+        ],
+        "name": "Cicero",
+        "title": "cic.oct1_lat.xml.json"
+    },
+    {
+        "encoding": [
+            {
+                "@doctype": "TEI.2",
+                "state": [
+                    {
+                        "@delim": " ",
+                        "@unit": "text"
+                    },
+                    {
+                        "@unit": "section"
+                    }
+                ]
+            },
+            {
+                "@doctype": "TEI.2",
+                "state": [
+                    {
+                        "@delim": " ",
+                        "@unit": "text"
+                    },
+                    {
+                        "@delim": ".",
+                        "@n": "chunk",
+                        "@unit": "chapter"
+                    },
+                    {
+                        "@unit": "section"
+                    }
+                ]
+            },
+            {
+                "@doctype": "TEI.2",
+                "@n": "text=Phil.",
+                "state": [
+                    {
+                        "@delim": " ",
+                        "@unit": "text"
+                    },
+                    {
+                        "@delim": ".",
+                        "@unit": "speech"
+                    },
+                    {
+                        "@unit": "section"
+                    }
+                ]
+            },
+            {
+                "@doctype": "TEI.2",
+                "@n": "text=Phil.",
+                "state": [
+                    {
+                        "@delim": " ",
+                        "@unit": "text"
+                    },
+                    {
+                        "@delim": ".",
+                        "@unit": "speech"
+                    },
+                    {
+                        "@delim": ".",
+                        "@n": "chunk",
+                        "@unit": "chapter"
+                    },
+                    {
+                        "@unit": "section"
+                    }
+                ]
+            }
+        ],
+        "name": "Cicero",
+        "title": "cic.oct2_lat.xml.json"
+    },
+    {
+        "encoding": [
+            {
+                "@doctype": "TEI.2",
+                "state": [
+                    {
+                        "@delim": " ",
+                        "@unit": "text"
+                    },
+                    {
+                        "@unit": "section"
+                    }
+                ]
+            },
+            {
+                "@doctype": "TEI.2",
+                "state": [
+                    {
+                        "@delim": " ",
+                        "@unit": "text"
+                    },
+                    {
+                        "@delim": ".",
+                        "@n": "chunk",
+                        "@unit": "chapter"
+                    },
+                    {
+                        "@unit": "section"
+                    }
+                ]
+            },
+            {
+                "@doctype": "TEI.2",
+                "@n": "text=Ver.",
+                "state": [
+                    {
+                        "@delim": " ",
+                        "@unit": "text"
+                    },
+                    {
+                        "@delim": " ",
+                        "@unit": "actio"
+                    },
+                    {
+                        "@delim": ".",
+                        "@unit": "book"
+                    },
+                    {
+                        "@unit": "section"
+                    }
+                ]
+            }
+        ],
+        "name": "Cicero",
+        "title": "cic.oct3_lat.xml.json"
+    },
+    {
+        "encoding": [
+            {
+                "@doctype": "TEI.2",
+                "state": [
+                    {
+                        "@delim": " ",
+                        "@unit": "text"
+                    },
+                    {
+                        "@unit": "section"
+                    }
+                ]
+            },
+            {
+                "@doctype": "TEI.2",
+                "state": [
+                    {
+                        "@delim": " ",
+                        "@unit": "text"
+                    },
+                    {
+                        "@delim": ".",
+                        "@n": "chunk",
+                        "@unit": "chapter"
+                    },
+                    {
+                        "@unit": "section"
+                    }
+                ]
+            },
+            {
+                "@doctype": "TEI.2",
+                "@n": "text=Agr.",
+                "state": [
+                    {
+                        "@delim": " ",
+                        "@unit": "text"
+                    },
+                    {
+                        "@delim": ".",
+                        "@unit": "speech"
+                    },
+                    {
+                        "@unit": "section"
+                    }
+                ]
+            },
+            {
+                "@doctype": "TEI.2",
+                "@n": "text=Agr.",
+                "state": [
+                    {
+                        "@delim": " ",
+                        "@unit": "text"
+                    },
+                    {
+                        "@delim": ".",
+                        "@unit": "speech"
+                    },
+                    {
+                        "@delim": ".",
+                        "@n": "chunk",
+                        "@unit": "chapter"
+                    },
+                    {
+                        "@unit": "section"
+                    }
+                ]
+            }
+        ],
+        "name": "Cicero",
+        "title": "cic.oct4_lat.xml.json"
+    },
+    {
+        "encoding": [
+            {
+                "@doctype": "TEI.2",
+                "state": [
+                    {
+                        "@delim": " ",
+                        "@unit": "text"
+                    },
+                    {
+                        "@unit": "section"
+                    }
+                ]
+            },
+            {
+                "@doctype": "TEI.2",
+                "state": [
+                    {
+                        "@delim": " ",
+                        "@unit": "text"
+                    },
+                    {
+                        "@delim": ".",
+                        "@n": "chunk",
+                        "@unit": "chapter"
+                    },
+                    {
+                        "@unit": "section"
+                    }
+                ]
+            }
+        ],
+        "name": "Cicero",
+        "title": "cic.oct5_lat.xml.json"
+    },
+    {
+        "encoding": [
+            {
+                "@doctype": "TEI.2",
+                "state": [
+                    {
+                        "@delim": " ",
+                        "@unit": "text"
+                    },
+                    {
+                        "@unit": "section"
+                    }
+                ]
+            },
+            {
+                "@doctype": "TEI.2",
+                "state": [
+                    {
+                        "@delim": " ",
+                        "@unit": "text"
+                    },
+                    {
+                        "@delim": ".",
+                        "@n": "chunk",
+                        "@unit": "chapter"
+                    },
+                    {
+                        "@unit": "section"
+                    }
+                ]
+            }
+        ],
+        "name": "Cicero",
+        "title": "cic.oct6_lat.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@unit": "book"
+                },
+                {
+                    "@unit": "section"
+                }
+            ]
+        },
+        "name": "Cicero",
+        "title": "cic.off_appcrit.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@unit": "book"
+                },
+                {
+                    "@unit": "section"
+                }
+            ]
+        },
+        "name": "Cicero",
+        "title": "cic.off_eng.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": {
+                "@unit": "entry"
+            }
+        },
+        "name": "Cicero",
+        "title": "cic.off_index.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": {
+                "@unit": "section"
+            }
+        },
+        "name": "Cicero",
+        "title": "cic.off_intro.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@unit": "book"
+                },
+                {
+                    "@unit": "section"
+                }
+            ]
+        },
+        "name": "Cicero",
+        "title": "cic.off_lat.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@delim": ".",
+                    "@n": "chunk",
+                    "@unit": "chapter"
+                },
+                {
+                    "@unit": "section"
+                }
+            ]
+        },
+        "name": "Cicero",
+        "title": "cic.opt_lat.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@delim": ".",
+                    "@n": "chunk",
+                    "@unit": "chapter"
+                },
+                {
+                    "@unit": "section"
+                }
+            ]
+        },
+        "name": "Cicero",
+        "title": "cic.orat_lat.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": {
+                "@unit": "section"
+            }
+        },
+        "name": "Cicero",
+        "title": "cic.parad_appcrit.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": {
+                "@unit": "section"
+            }
+        },
+        "name": "Cicero",
+        "title": "cic.parad_lat.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@delim": ".",
+                    "@n": "chunk",
+                    "@unit": "chapter"
+                },
+                {
+                    "@unit": "section"
+                }
+            ]
+        },
+        "name": "Cicero",
+        "title": "cic.part_lat.xml.json"
+    },
+    {
+        "encoding": [
+            {
+                "@doctype": "TEI.2",
+                "state": {
+                    "@unit": "section"
+                }
+            },
+            {
+                "@doctype": "TEI.2",
+                "state": [
+                    {
+                        "@delim": ".",
+                        "@unit": "chapter"
+                    },
+                    {
+                        "@unit": "section"
+                    }
+                ]
+            }
+        ],
+        "name": "Cicero",
+        "title": "cic.pet_lat.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@delim": ".",
+                    "@unit": "book"
+                },
+                {
+                    "@delim": ".",
+                    "@unit": "letter"
+                },
+                {
+                    "@unit": "section"
+                }
+            ]
+        },
+        "name": "Cicero",
+        "title": "cic.q.fr_lat.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@unit": "book"
+                },
+                {
+                    "@unit": "section"
+                }
+            ]
+        },
+        "name": "Cicero",
+        "title": "cic.rep_lat.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": {
+                "@unit": "section"
+            }
+        },
+        "name": "Cicero",
+        "title": "cic.sen_falc_eng.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": {
+                "@unit": "chapter"
+            }
+        },
+        "name": "Cicero",
+        "title": "cic.sen_falc_intro.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "@n": "text=Sen",
+            "state": {
+                "@unit": "section"
+            }
+        },
+        "name": "Cicero",
+        "title": "cic.sen_falc_lat.xml.json"
+    },
+    {
+        "encoding": [
+            {
+                "@doctype": "TEI.2",
+                "state": [
+                    {
+                        "@delim": ".",
+                        "@unit": "volume"
+                    },
+                    {
+                        "@unit": "page"
+                    }
+                ]
+            },
+            {
+                "@doctype": "TEI.2",
+                "state": {
+                    "@n": "chunk",
+                    "@unit": "year"
+                }
+            },
+            {
+                "@doctype": "TEI.2",
+                "state": [
+                    {
+                        "@unit": "volume"
+                    },
+                    {
+                        "@unit": "year"
+                    },
+                    {
+                        "@unit": "letter"
+                    },
+                    {
+                        "@unit": "section"
+                    }
+                ]
+            }
+        ],
+        "name": "Cicero",
+        "title": "cic.shuck_eng.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@delim": ".",
+                    "@n": "chunk",
+                    "@unit": "chapter"
+                },
+                {
+                    "@unit": "section"
+                }
+            ]
+        },
+        "name": "Cicero",
+        "title": "cic.top_lat.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@unit": "book"
+                },
+                {
+                    "@unit": "section"
+                }
+            ]
+        },
+        "name": "Cicero",
+        "title": "cic.tusc_lat.xml.json"
+    },
+    {
+        "encoding": [
+            {
+                "@doctype": "TEI.2",
+                "state": [
+                    {
+                        "@delim": " ",
+                        "@unit": "text"
+                    },
+                    {
+                        "@unit": "section"
+                    }
+                ]
+            },
+            {
+                "@doctype": "TEI.2",
+                "state": [
+                    {
+                        "@delim": " ",
+                        "@unit": "text"
+                    },
+                    {
+                        "@delim": ".",
+                        "@unit": "chapter"
+                    },
+                    {
+                        "@unit": "section"
+                    }
+                ]
+            },
+            {
+                "@doctype": "TEI.2",
+                "@n": "text=Ver.",
+                "state": [
+                    {
+                        "@delim": " ",
+                        "@unit": "text"
+                    },
+                    {
+                        "@delim": " ",
+                        "@unit": "actio"
+                    },
+                    {
+                        "@delim": ".",
+                        "@unit": "book"
+                    },
+                    {
+                        "@unit": "section"
+                    }
+                ]
+            }
+        ],
+        "name": "Cicero",
+        "title": "cic.yonge1_eng.xml.json"
+    },
+    {
+        "encoding": [
+            {
+                "@doctype": "TEI.2",
+                "state": [
+                    {
+                        "@delim": " ",
+                        "@unit": "text"
+                    },
+                    {
+                        "@unit": "section"
+                    }
+                ]
+            },
+            {
+                "@doctype": "TEI.2",
+                "state": [
+                    {
+                        "@delim": " ",
+                        "@unit": "text"
+                    },
+                    {
+                        "@delim": ".",
+                        "@unit": "chapter"
+                    },
+                    {
+                        "@unit": "section"
+                    }
+                ]
+            },
+            {
+                "@doctype": "TEI.2",
+                "@n": "text=Catil.;text=Agr.",
+                "state": [
+                    {
+                        "@delim": " ",
+                        "@unit": "text"
+                    },
+                    {
+                        "@delim": ".",
+                        "@unit": "speech"
+                    },
+                    {
+                        "@unit": "section"
+                    }
+                ]
+            },
+            {
+                "@doctype": "TEI.2",
+                "@n": "text=Catil.;text=Agr.",
+                "state": [
+                    {
+                        "@delim": " ",
+                        "@unit": "text"
+                    },
+                    {
+                        "@delim": ".",
+                        "@unit": "speech"
+                    },
+                    {
+                        "@delim": ".",
+                        "@unit": "chapter"
+                    },
+                    {
+                        "@unit": "section"
+                    }
+                ]
+            },
+            {
+                "@doctype": "TEI.2",
+                "@n": "text=Corn.",
+                "state": [
+                    {
+                        "@delim": " ",
+                        "@unit": "text"
+                    },
+                    {
+                        "@unit": "speech"
+                    }
+                ]
+            }
+        ],
+        "name": "Cicero",
+        "title": "cic.yonge2_eng.xml.json"
+    },
+    {
+        "encoding": [
+            {
+                "@doctype": "TEI.2",
+                "state": [
+                    {
+                        "@delim": " ",
+                        "@unit": "text"
+                    },
+                    {
+                        "@unit": "section"
+                    }
+                ]
+            },
+            {
+                "@doctype": "TEI.2",
+                "state": [
+                    {
+                        "@delim": " ",
+                        "@unit": "text"
+                    },
+                    {
+                        "@delim": ".",
+                        "@unit": "chapter"
+                    },
+                    {
+                        "@unit": "section"
+                    }
+                ]
+            }
+        ],
+        "name": "Cicero",
+        "title": "cic.yonge3_eng.xml.json"
+    },
+    {
+        "encoding": [
+            {
+                "@doctype": "TEI.2",
+                "state": [
+                    {
+                        "@delim": ".",
+                        "@unit": "speech"
+                    },
+                    {
+                        "@unit": "section"
+                    }
+                ]
+            },
+            {
+                "@doctype": "TEI.2",
+                "state": [
+                    {
+                        "@delim": ".",
+                        "@unit": "speech"
+                    },
+                    {
+                        "@delim": ".",
+                        "@unit": "chapter"
+                    },
+                    {
+                        "@unit": "section"
+                    }
+                ]
+            }
+        ],
+        "name": "Cicero",
+        "title": "cic.yonge4_eng.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@unit": "book"
+                },
+                {
+                    "@n": "chunk+",
+                    "@unit": "section"
+                }
+            ]
+        },
+        "name": "Cicero",
+        "title": "deoratore_lat.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@unit": "chapter"
+                },
+                {
+                    "@unit": "section"
+                }
+            ]
+        },
+        "name": "Cicero",
+        "title": "donk.cic.rosc.am.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@unit": "book"
+                },
+                {
+                    "@n": "chunk",
+                    "@unit": "chapter"
+                },
+                {
+                    "@unit": "section"
+                }
+            ]
+        },
+        "name": "Columella",
+        "title": "col.agr01_lat.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@unit": "book"
+                },
+                {
+                    "@n": "chunk",
+                    "@unit": "chapter"
+                },
+                {
+                    "@unit": "section"
+                }
+            ]
+        },
+        "name": "Columella",
+        "title": "col.agr02_lat.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@unit": "book"
+                },
+                {
+                    "@n": "chunk",
+                    "@unit": "chapter"
+                },
+                {
+                    "@unit": "section"
+                }
+            ]
+        },
+        "name": "Curtius",
+        "title": "curtius.alex_lat.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": {
+                "@unit": "book"
+            }
+        },
+        "name": "Flaccus",
+        "title": "v.fl_intro.xml.json"
+    },
+    {
+        "encoding": [
+            {
+                "@doctype": "TEI.2",
+                "state": [
+                    {
+                        "@unit": "book"
+                    },
+                    {
+                        "@unit": "line"
+                    }
+                ]
+            },
+            {
+                "@doctype": "TEI.2",
+                "state": [
+                    {
+                        "@unit": "book"
+                    },
+                    {
+                        "@unit": "card"
+                    }
+                ]
+            }
+        ],
+        "name": "Flaccus",
+        "title": "v.fl_lat.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@unit": "book"
+                },
+                {
+                    "@unit": "topic"
+                },
+                {
+                    "@n": "chunk",
+                    "@unit": "chapter"
+                },
+                {
+                    "@unit": "section"
+                }
+            ]
+        },
+        "name": "Florus",
+        "title": "florus.epit_lat.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": {
+                "@unit": "book"
+            }
+        },
+        "name": "Gellius",
+        "title": "gel.rolfe1_intro.xml.json"
+    },
+    {
+        "encoding": [
+            {
+                "@doctype": "TEI.2",
+                "state": [
+                    {
+                        "@unit": "book"
+                    },
+                    {
+                        "@n": "chunk",
+                        "@unit": "chapter"
+                    },
+                    {
+                        "@unit": "section"
+                    }
+                ]
+            },
+            {
+                "@doctype": "TEI.2",
+                "state": {
+                    "@unit": "page"
+                }
+            }
+        ],
+        "name": "Gellius",
+        "title": "gel_eng.xml.json"
+    },
+    {
+        "encoding": [
+            {
+                "@doctype": "TEI.2",
+                "state": [
+                    {
+                        "@unit": "book"
+                    },
+                    {
+                        "@n": "chunk",
+                        "@unit": "chapter"
+                    },
+                    {
+                        "@unit": "section"
+                    }
+                ]
+            },
+            {
+                "@doctype": "TEI.2",
+                "state": {
+                    "@unit": "page"
+                }
+            }
+        ],
+        "name": "Gellius",
+        "title": "gel_lat.xml.json"
+    },
+    {
+        "encoding": [
+            {
+                "@doctype": "TEI.2",
+                "state": {
+                    "@n": "chunk",
+                    "@unit": "chapter"
+                }
+            },
+            {
+                "@doctype": "TEI.2",
+                "state": {
+                    "@unit": "page"
+                }
+            }
+        ],
+        "name": "Glass",
+        "title": "washington.bio_lat.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@n": "chunk",
+                    "@unit": "chapter"
+                },
+                {
+                    "@unit": "section"
+                }
+            ]
+        },
+        "name": "HistAugust",
+        "title": "sha01.1.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@n": "chunk",
+                    "@unit": "chapter"
+                },
+                {
+                    "@unit": "section"
+                }
+            ]
+        },
+        "name": "HistAugust",
+        "title": "sha01.10.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@n": "chunk",
+                    "@unit": "chapter"
+                },
+                {
+                    "@unit": "section"
+                }
+            ]
+        },
+        "name": "HistAugust",
+        "title": "sha01.11.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@n": "chunk",
+                    "@unit": "chapter"
+                },
+                {
+                    "@unit": "section"
+                }
+            ]
+        },
+        "name": "HistAugust",
+        "title": "sha01.12.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@n": "chunk",
+                    "@unit": "chapter"
+                },
+                {
+                    "@unit": "section"
+                }
+            ]
+        },
+        "name": "HistAugust",
+        "title": "sha01.2.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@unit": "chapter"
+                },
+                {
+                    "@unit": "section"
+                }
+            ]
+        },
+        "name": "HistAugust",
+        "title": "sha01.3.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@unit": "chapter"
+                },
+                {
+                    "@unit": "section"
+                }
+            ]
+        },
+        "name": "HistAugust",
+        "title": "sha01.4.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@n": "chunk",
+                    "@unit": "chapter"
+                },
+                {
+                    "@unit": "section"
+                }
+            ]
+        },
+        "name": "HistAugust",
+        "title": "sha01.5.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@n": "chunk",
+                    "@unit": "chapter"
+                },
+                {
+                    "@unit": "section"
+                }
+            ]
+        },
+        "name": "HistAugust",
+        "title": "sha01.6.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@n": "chunk",
+                    "@unit": "chapter"
+                },
+                {
+                    "@unit": "section"
+                }
+            ]
+        },
+        "name": "HistAugust",
+        "title": "sha01.7.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@n": "chunk",
+                    "@unit": "chapter"
+                },
+                {
+                    "@unit": "section"
+                }
+            ]
+        },
+        "name": "HistAugust",
+        "title": "sha01.8.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@n": "chunk",
+                    "@unit": "chapter"
+                },
+                {
+                    "@unit": "section"
+                }
+            ]
+        },
+        "name": "HistAugust",
+        "title": "sha01.9.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@unit": "work"
+                },
+                {
+                    "@n": "chunk",
+                    "@unit": "chapter"
+                },
+                {
+                    "@unit": "section"
+                }
+            ]
+        },
+        "name": "HistAugust",
+        "title": "sha01_gk.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@n": "chunk",
+                    "@unit": "chapter"
+                },
+                {
+                    "@unit": "section"
+                }
+            ]
+        },
+        "name": "HistAugust",
+        "title": "sha02.1.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@n": "chunk",
+                    "@unit": "chapter"
+                },
+                {
+                    "@unit": "section"
+                }
+            ]
+        },
+        "name": "HistAugust",
+        "title": "sha02.2.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@n": "chunk",
+                    "@unit": "chapter"
+                },
+                {
+                    "@unit": "section"
+                }
+            ]
+        },
+        "name": "HistAugust",
+        "title": "sha02.3.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@n": "chunk",
+                    "@unit": "chapter"
+                },
+                {
+                    "@unit": "section"
+                }
+            ]
+        },
+        "name": "HistAugust",
+        "title": "sha02.4.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@n": "chunk",
+                    "@unit": "chapter"
+                },
+                {
+                    "@unit": "section"
+                }
+            ]
+        },
+        "name": "HistAugust",
+        "title": "sha02.5.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@n": "chunk",
+                    "@unit": "chapter"
+                },
+                {
+                    "@unit": "section"
+                }
+            ]
+        },
+        "name": "HistAugust",
+        "title": "sha02.6.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@n": "chunk",
+                    "@unit": "chapter"
+                },
+                {
+                    "@unit": "section"
+                }
+            ]
+        },
+        "name": "HistAugust",
+        "title": "sha02.7.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@n": "chunk",
+                    "@unit": "chapter"
+                },
+                {
+                    "@unit": "section"
+                }
+            ]
+        },
+        "name": "HistAugust",
+        "title": "sha02.8.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@n": "chunk",
+                    "@unit": "chapter"
+                },
+                {
+                    "@unit": "section"
+                }
+            ]
+        },
+        "name": "HistAugust",
+        "title": "sha02.9.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@unit": "work"
+                },
+                {
+                    "@n": "chunk",
+                    "@unit": "chapter"
+                },
+                {
+                    "@unit": "section"
+                }
+            ]
+        },
+        "name": "HistAugust",
+        "title": "sha02_gk.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@n": "chunk",
+                    "@unit": "chapter"
+                },
+                {
+                    "@unit": "section"
+                }
+            ]
+        },
+        "name": "HistAugust",
+        "title": "sha03.1.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@n": "chunk",
+                    "@unit": "chapter"
+                },
+                {
+                    "@unit": "section"
+                }
+            ]
+        },
+        "name": "HistAugust",
+        "title": "sha03.2.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@n": "chunk",
+                    "@unit": "chapter"
+                },
+                {
+                    "@unit": "section"
+                }
+            ]
+        },
+        "name": "HistAugust",
+        "title": "sha03.3.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@n": "chunk",
+                    "@unit": "chapter"
+                },
+                {
+                    "@unit": "section"
+                }
+            ]
+        },
+        "name": "HistAugust",
+        "title": "sha03.4.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@n": "chunk",
+                    "@unit": "chapter"
+                },
+                {
+                    "@unit": "section"
+                }
+            ]
+        },
+        "name": "HistAugust",
+        "title": "sha03.5.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@n": "chunk",
+                    "@unit": "chapter"
+                },
+                {
+                    "@unit": "section"
+                }
+            ]
+        },
+        "name": "HistAugust",
+        "title": "sha03.6.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@n": "chunk",
+                    "@unit": "chapter"
+                },
+                {
+                    "@unit": "section"
+                }
+            ]
+        },
+        "name": "HistAugust",
+        "title": "sha03.7.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@n": "chunk",
+                    "@unit": "chapter"
+                },
+                {
+                    "@unit": "section"
+                }
+            ]
+        },
+        "name": "HistAugust",
+        "title": "sha03.8.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@n": "chunk",
+                    "@unit": "chapter"
+                },
+                {
+                    "@unit": "section"
+                }
+            ]
+        },
+        "name": "HistAugust",
+        "title": "sha03.9.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@unit": "work"
+                },
+                {
+                    "@n": "chunk",
+                    "@unit": "chapter"
+                },
+                {
+                    "@unit": "section"
+                }
+            ]
+        },
+        "name": "HistAugust",
+        "title": "sha03_gk.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": {
+                "@n": "chunk",
+                "@unit": "card"
+            }
+        },
+        "name": "Horace",
+        "title": "hor.ap_eng.xml.json"
+    },
+    {
+        "encoding": [
+            {
+                "@doctype": "TEI.2",
+                "state": {
+                    "@unit": "line"
+                }
+            },
+            {
+                "@doctype": "TEI.2",
+                "state": {
+                    "@n": "chunk",
+                    "@unit": "card"
+                }
+            }
+        ],
+        "name": "Horace",
+        "title": "hor.ap_lat.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "step": [
+                {
+                    "@delim": ".",
+                    "@from": "DESCENDANT (1 DIV1 N %1)",
+                    "@refunit": "book"
+                },
+                {
+                    "@from": "DESCENDANT (1 DIV2 N %2)",
+                    "@refunit": "poem"
+                }
+            ]
+        },
+        "name": "Horace",
+        "title": "hor.carm.con_eng.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "step": [
+                {
+                    "@delim": ".",
+                    "@from": "DESCENDANT (1 DIV1 N %1)",
+                    "@refunit": "book"
+                },
+                {
+                    "@delim": ".",
+                    "@from": "DESCENDANT (1 DIV2 N %2)",
+                    "@n": "chunk",
+                    "@refunit": "poem"
+                }
+            ]
+        },
+        "name": "Horace",
+        "title": "hor.carm_lat.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@unit": "poem"
+                },
+                {
+                    "@unit": "line"
+                }
+            ]
+        },
+        "name": "Horace",
+        "title": "hor.carmsaec_lat.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@unit": "book"
+                },
+                {
+                    "@unit": "poem"
+                },
+                {
+                    "@unit": "line"
+                }
+            ]
+        },
+        "name": "Horace",
+        "title": "hor.epist_lat.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@unit": "poem"
+                },
+                {
+                    "@unit": "line"
+                }
+            ]
+        },
+        "name": "Horace",
+        "title": "hor.epodes_lat.xml.json"
+    },
+    {
+        "encoding": [
+            {
+                "@doctype": "TEI.2",
+                "step": [
+                    {
+                        "@from": "DESCENDANT (1 DIV1 N %1)",
+                        "@refunit": "book"
+                    },
+                    {
+                        "@delim": ".",
+                        "@from": "DESCENDANT (1 DIV2 N %2)",
+                        "@n": "chunk",
+                        "@refunit": "poem"
+                    },
+                    {
+                        "@from": "DESCENDANT (1 L N %3)",
+                        "@refunit": "line"
+                    }
+                ]
+            },
+            {
+                "@doctype": "TEI.2",
+                "state": {
+                    "@n": "chunk",
+                    "@unit": "card"
+                }
+            }
+        ],
+        "name": "Horace",
+        "title": "hor.sat_eng.xml.json"
+    },
+    {
+        "encoding": [
+            {
+                "@doctype": "TEI.2",
+                "step": [
+                    {
+                        "@from": "DESCENDANT (1 DIV1 N %1)",
+                        "@refunit": "book"
+                    },
+                    {
+                        "@delim": ".",
+                        "@from": "DESCENDANT (1 DIV2 N %2)",
+                        "@n": "chunk",
+                        "@refunit": "poem"
+                    },
+                    {
+                        "@from": "DESCENDANT (1 L N %3)",
+                        "@refunit": "line"
+                    }
+                ]
+            },
+            {
+                "@doctype": "TEI.2",
+                "state": {
+                    "@n": "chunk",
+                    "@unit": "card"
+                }
+            }
+        ],
+        "name": "Horace",
+        "title": "hor.sat_lat.xml.json"
+    },
+    {
+        "encoding": [
+            {
+                "@doctype": "TEI.2",
+                "@n": "text=Carm.",
+                "state": [
+                    {
+                        "@unit": "text"
+                    },
+                    {
+                        "@unit": "book"
+                    },
+                    {
+                        "@unit": "poem"
+                    },
+                    {
+                        "@unit": "commline"
+                    }
+                ]
+            },
+            {
+                "@doctype": "TEI.2",
+                "@n": "text=Saec.",
+                "state": [
+                    {
+                        "@unit": "text"
+                    },
+                    {
+                        "@unit": "commline"
+                    }
+                ]
+            },
+            {
+                "@doctype": "TEI.2",
+                "@n": "text=Epod.",
+                "state": [
+                    {
+                        "@unit": "text"
+                    },
+                    {
+                        "@unit": "poem"
+                    },
+                    {
+                        "@unit": "commline"
+                    }
+                ]
+            }
+        ],
+        "name": "Horace",
+        "title": "shore.hor_eng.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@delim": ".",
+                    "@unit": "letter"
+                },
+                {
+                    "@unit": "section"
+                }
+            ]
+        },
+        "name": "Jerome",
+        "title": "jerome.sellet_lat.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "step": [
+                {
+                    "@from": "DESCENDANT (1 DIV1 N %1)",
+                    "@refunit": "book",
+                    "@to": "DITTO"
+                },
+                {
+                    "@delim": ".",
+                    "@from": "DESCENDANT (1 DIV2 TYPE POEM N %1)",
+                    "@refunit": "poem"
+                },
+                {
+                    "@from": "DESCENDANT (1 L N %2)",
+                    "@refunit": "line"
+                }
+            ]
+        },
+        "name": "Juvenal",
+        "title": "juv_lat.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@unit": "book"
+                },
+                {
+                    "@n": "chunk",
+                    "@unit": "chapter"
+                }
+            ]
+        },
+        "name": "Livy",
+        "title": "liv.rob_eng.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@unit": "book"
+                },
+                {
+                    "@n": "chunk",
+                    "@unit": "chapter"
+                }
+            ]
+        },
+        "name": "Livy",
+        "title": "liv.rob_eng2.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@unit": "book"
+                },
+                {
+                    "@n": "chunk",
+                    "@unit": "chapter"
+                }
+            ]
+        },
+        "name": "Livy",
+        "title": "livy.foster01-02.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@unit": "book"
+                },
+                {
+                    "@n": "chunk",
+                    "@unit": "chapter"
+                }
+            ]
+        },
+        "name": "Livy",
+        "title": "livy.foster01-02_lat.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@unit": "book"
+                },
+                {
+                    "@n": "chunk",
+                    "@unit": "chapter"
+                }
+            ]
+        },
+        "name": "Livy",
+        "title": "livy.foster03-04.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@unit": "book"
+                },
+                {
+                    "@n": "chunk",
+                    "@unit": "chapter"
+                }
+            ]
+        },
+        "name": "Livy",
+        "title": "livy.foster03-04_lat.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@unit": "book"
+                },
+                {
+                    "@n": "chunk",
+                    "@unit": "chapter"
+                }
+            ]
+        },
+        "name": "Livy",
+        "title": "livy.foster05-07.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@unit": "book"
+                },
+                {
+                    "@n": "chunk",
+                    "@unit": "chapter"
+                }
+            ]
+        },
+        "name": "Livy",
+        "title": "livy.foster05-07_lat.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@unit": "book"
+                },
+                {
+                    "@n": "chunk",
+                    "@unit": "chapter"
+                }
+            ]
+        },
+        "name": "Livy",
+        "title": "livy.foster08-10.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@unit": "book"
+                },
+                {
+                    "@n": "chunk",
+                    "@unit": "chapter"
+                }
+            ]
+        },
+        "name": "Livy",
+        "title": "livy.foster08-10_lat.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@unit": "book"
+                },
+                {
+                    "@n": "chunk",
+                    "@unit": "chapter"
+                }
+            ]
+        },
+        "name": "Livy",
+        "title": "livy.foster21-22.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@unit": "book"
+                },
+                {
+                    "@n": "chunk",
+                    "@unit": "chapter"
+                }
+            ]
+        },
+        "name": "Livy",
+        "title": "livy.foster21-22_lat.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@unit": "book"
+                },
+                {
+                    "@n": "chunk",
+                    "@unit": "chapter"
+                }
+            ]
+        },
+        "name": "Livy",
+        "title": "livy.moore23-25.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@unit": "book"
+                },
+                {
+                    "@n": "chunk",
+                    "@unit": "chapter"
+                }
+            ]
+        },
+        "name": "Livy",
+        "title": "livy.moore23-25_lat.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@unit": "book"
+                },
+                {
+                    "@n": "chunk",
+                    "@unit": "chapter"
+                }
+            ]
+        },
+        "name": "Livy",
+        "title": "livy.moore26-27.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@unit": "book"
+                },
+                {
+                    "@n": "chunk",
+                    "@unit": "chapter"
+                }
+            ]
+        },
+        "name": "Livy",
+        "title": "livy.moore26-27_lat.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@unit": "book"
+                },
+                {
+                    "@n": "chunk",
+                    "@unit": "chapter"
+                }
+            ]
+        },
+        "name": "Livy",
+        "title": "livy.moore28-30.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@unit": "book"
+                },
+                {
+                    "@n": "chunk",
+                    "@unit": "chapter"
+                }
+            ]
+        },
+        "name": "Livy",
+        "title": "livy.moore28-30_lat.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@delim": ".",
+                    "@unit": "book"
+                },
+                {
+                    "@delim": ".",
+                    "@unit": "chapter"
+                },
+                {
+                    "@unit": "section"
+                }
+            ]
+        },
+        "name": "Livy",
+        "title": "livy.oct01-05.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@delim": ".",
+                    "@unit": "book"
+                },
+                {
+                    "@delim": ".",
+                    "@unit": "chapter"
+                },
+                {
+                    "@unit": "section"
+                }
+            ]
+        },
+        "name": "Livy",
+        "title": "livy.oct06-10.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@delim": ".",
+                    "@unit": "book"
+                },
+                {
+                    "@delim": ".",
+                    "@unit": "chapter"
+                },
+                {
+                    "@unit": "section"
+                }
+            ]
+        },
+        "name": "Livy",
+        "title": "livy.oct21-25.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@delim": ".",
+                    "@unit": "book"
+                },
+                {
+                    "@delim": ".",
+                    "@unit": "chapter"
+                },
+                {
+                    "@unit": "section"
+                }
+            ]
+        },
+        "name": "Livy",
+        "title": "livy.oct26-30.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@unit": "book"
+                },
+                {
+                    "@n": "chunk",
+                    "@unit": "chapter"
+                }
+            ]
+        },
+        "name": "Livy",
+        "title": "livy.sage31-34.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@unit": "book"
+                },
+                {
+                    "@n": "chunk",
+                    "@unit": "chapter"
+                }
+            ]
+        },
+        "name": "Livy",
+        "title": "livy.sage31-34_lat.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@unit": "book"
+                },
+                {
+                    "@n": "chunk",
+                    "@unit": "chapter"
+                }
+            ]
+        },
+        "name": "Livy",
+        "title": "livy.sage35-37.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@unit": "book"
+                },
+                {
+                    "@n": "chunk",
+                    "@unit": "chapter"
+                }
+            ]
+        },
+        "name": "Livy",
+        "title": "livy.sage35-37_lat.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@unit": "book"
+                },
+                {
+                    "@n": "chunk",
+                    "@unit": "chapter"
+                }
+            ]
+        },
+        "name": "Livy",
+        "title": "livy.sage38-39.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@unit": "book"
+                },
+                {
+                    "@n": "chunk",
+                    "@unit": "chapter"
+                }
+            ]
+        },
+        "name": "Livy",
+        "title": "livy.sage38-39_lat.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@unit": "book"
+                },
+                {
+                    "@n": "chunk",
+                    "@unit": "chapter"
+                }
+            ]
+        },
+        "name": "Livy",
+        "title": "livy.sage40-42.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@unit": "book"
+                },
+                {
+                    "@n": "chunk",
+                    "@unit": "chapter"
+                }
+            ]
+        },
+        "name": "Livy",
+        "title": "livy.sage40-42_lat.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@unit": "book"
+                },
+                {
+                    "@n": "chunk",
+                    "@unit": "chapter"
+                }
+            ]
+        },
+        "name": "Livy",
+        "title": "livy.schles43-45.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@unit": "book"
+                },
+                {
+                    "@n": "chunk",
+                    "@unit": "chapter"
+                }
+            ]
+        },
+        "name": "Livy",
+        "title": "livy.schles43-45_lat.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@delim": ".",
+                    "@unit": "book"
+                },
+                {
+                    "@delim": ".",
+                    "@unit": "chapter"
+                },
+                {
+                    "@unit": "section"
+                }
+            ]
+        },
+        "name": "Livy",
+        "title": "livy.teub.appcrit.01-10.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@delim": ".",
+                    "@unit": "book"
+                },
+                {
+                    "@delim": ".",
+                    "@unit": "chapter"
+                },
+                {
+                    "@unit": "section"
+                }
+            ]
+        },
+        "name": "Livy",
+        "title": "livy.teub.appcrit.21-30.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@delim": ".",
+                    "@unit": "book"
+                },
+                {
+                    "@delim": ".",
+                    "@unit": "chapter"
+                },
+                {
+                    "@unit": "section"
+                }
+            ]
+        },
+        "name": "Livy",
+        "title": "livy.teub.appcrit.31-38.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@delim": ".",
+                    "@unit": "book"
+                },
+                {
+                    "@delim": ".",
+                    "@unit": "chapter"
+                },
+                {
+                    "@unit": "section"
+                }
+            ]
+        },
+        "name": "Livy",
+        "title": "livy.teub.appcrit.39-40.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@delim": ".",
+                    "@unit": "book"
+                },
+                {
+                    "@delim": ".",
+                    "@n": "chunk",
+                    "@unit": "chapter"
+                },
+                {
+                    "@unit": "section"
+                }
+            ]
+        },
+        "name": "Livy",
+        "title": "livy.teub.appcrit.41-45.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": {
+                "@delim": ".",
+                "@unit": "book"
+            }
+        },
+        "name": "Livy",
+        "title": "livy.teub.appcrit.frag.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": {
+                "@delim": ".",
+                "@unit": "book"
+            }
+        },
+        "name": "Livy",
+        "title": "livy.teub.frag.xml.json"
+    },
+    {
+        "encoding": [
+            {
+                "@doctype": "TEI.2",
+                "state": [
+                    {
+                        "@unit": "letter"
+                    },
+                    {
+                        "@n": "chunk",
+                        "@unit": "entry"
+                    }
+                ]
+            },
+            {
+                "@doctype": "TEI.2",
+                "state": {
+                    "@unit": "page"
+                }
+            }
+        ],
+        "name": "Livy",
+        "title": "livy.teub.index.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@delim": ".",
+                    "@unit": "book"
+                },
+                {
+                    "@delim": ".",
+                    "@unit": "chapter"
+                },
+                {
+                    "@unit": "section"
+                }
+            ]
+        },
+        "name": "Livy",
+        "title": "livy.teub01-10.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@delim": ".",
+                    "@unit": "book"
+                },
+                {
+                    "@delim": ".",
+                    "@unit": "chapter"
+                },
+                {
+                    "@unit": "section"
+                }
+            ]
+        },
+        "name": "Livy",
+        "title": "livy.teub21-30.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@delim": ".",
+                    "@unit": "book"
+                },
+                {
+                    "@delim": ".",
+                    "@unit": "chapter"
+                },
+                {
+                    "@unit": "section"
+                }
+            ]
+        },
+        "name": "Livy",
+        "title": "livy.teub31-38.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@delim": ".",
+                    "@unit": "book"
+                },
+                {
+                    "@delim": ".",
+                    "@unit": "chapter"
+                },
+                {
+                    "@unit": "section"
+                }
+            ]
+        },
+        "name": "Livy",
+        "title": "livy.teub39-40.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@delim": ".",
+                    "@unit": "book"
+                },
+                {
+                    "@delim": ".",
+                    "@n": "chunk",
+                    "@unit": "chapter"
+                },
+                {
+                    "@unit": "section"
+                }
+            ]
+        },
+        "name": "Livy",
+        "title": "livy.teub41-45.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@delim": ".",
+                    "@unit": "book"
+                },
+                {
+                    "@delim": ".",
+                    "@unit": "chapter"
+                },
+                {
+                    "@unit": "section"
+                }
+            ]
+        },
+        "name": "Livy",
+        "title": "livy.weiss.appcrit.31-32.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@delim": ".",
+                    "@unit": "book"
+                },
+                {
+                    "@delim": ".",
+                    "@unit": "chapter"
+                },
+                {
+                    "@unit": "section"
+                }
+            ]
+        },
+        "name": "Livy",
+        "title": "livy.weiss.appcrit.33-34.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@delim": ".",
+                    "@unit": "book"
+                },
+                {
+                    "@delim": ".",
+                    "@unit": "chapter"
+                },
+                {
+                    "@unit": "section"
+                }
+            ]
+        },
+        "name": "Livy",
+        "title": "livy.weiss.appcrit.35-38.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@delim": ".",
+                    "@unit": "book"
+                },
+                {
+                    "@delim": ".",
+                    "@unit": "chapter"
+                },
+                {
+                    "@unit": "section"
+                }
+            ]
+        },
+        "name": "Livy",
+        "title": "livy.weiss.appcrit.39-40.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@delim": ".",
+                    "@unit": "book"
+                },
+                {
+                    "@delim": ".",
+                    "@unit": "chapter"
+                },
+                {
+                    "@unit": "section"
+                }
+            ]
+        },
+        "name": "Livy",
+        "title": "livy.weiss.appcrit.41-42.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@delim": ".",
+                    "@unit": "book"
+                },
+                {
+                    "@delim": ".",
+                    "@unit": "chapter"
+                },
+                {
+                    "@unit": "section"
+                }
+            ]
+        },
+        "name": "Livy",
+        "title": "livy.weiss.appcrit.43-44.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@delim": ".",
+                    "@unit": "book"
+                },
+                {
+                    "@delim": ".",
+                    "@unit": "chapter"
+                },
+                {
+                    "@unit": "section"
+                }
+            ]
+        },
+        "name": "Livy",
+        "title": "livy.weiss.appcrit.45.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@delim": ".",
+                    "@unit": "book"
+                },
+                {
+                    "@delim": ".",
+                    "@unit": "chapter"
+                },
+                {
+                    "@unit": "section"
+                }
+            ]
+        },
+        "name": "Livy",
+        "title": "livy.weiss31-32.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@delim": ".",
+                    "@unit": "book"
+                },
+                {
+                    "@delim": ".",
+                    "@unit": "chapter"
+                },
+                {
+                    "@unit": "section"
+                }
+            ]
+        },
+        "name": "Livy",
+        "title": "livy.weiss33-34.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@delim": ".",
+                    "@unit": "book"
+                },
+                {
+                    "@delim": ".",
+                    "@unit": "chapter"
+                },
+                {
+                    "@unit": "section"
+                }
+            ]
+        },
+        "name": "Livy",
+        "title": "livy.weiss35-38.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@delim": ".",
+                    "@unit": "book"
+                },
+                {
+                    "@delim": ".",
+                    "@unit": "chapter"
+                },
+                {
+                    "@unit": "section"
+                }
+            ]
+        },
+        "name": "Livy",
+        "title": "livy.weiss39-40.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@delim": ".",
+                    "@unit": "book"
+                },
+                {
+                    "@delim": ".",
+                    "@unit": "chapter"
+                },
+                {
+                    "@unit": "section"
+                }
+            ]
+        },
+        "name": "Livy",
+        "title": "livy.weiss41-42.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@delim": ".",
+                    "@unit": "book"
+                },
+                {
+                    "@delim": ".",
+                    "@unit": "chapter"
+                },
+                {
+                    "@unit": "section"
+                }
+            ]
+        },
+        "name": "Livy",
+        "title": "livy.weiss43-44.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@delim": ".",
+                    "@unit": "chapter"
+                },
+                {
+                    "@unit": "section"
+                }
+            ]
+        },
+        "name": "Livy",
+        "title": "livy.weiss45.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@delim": ".",
+                    "@unit": "book"
+                },
+                {
+                    "@delim": ".",
+                    "@unit": "chapter"
+                },
+                {
+                    "@unit": "section"
+                }
+            ]
+        },
+        "name": "Livy",
+        "title": "livy.weisscomm31-32.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@delim": ".",
+                    "@unit": "book"
+                },
+                {
+                    "@delim": ".",
+                    "@unit": "chapter"
+                },
+                {
+                    "@unit": "section"
+                }
+            ]
+        },
+        "name": "Livy",
+        "title": "livy.weisscomm33-34.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@delim": ".",
+                    "@unit": "book"
+                },
+                {
+                    "@delim": ".",
+                    "@unit": "chapter"
+                },
+                {
+                    "@unit": "section"
+                }
+            ]
+        },
+        "name": "Livy",
+        "title": "livy.weisscomm35-38.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@delim": ".",
+                    "@unit": "book"
+                },
+                {
+                    "@delim": ".",
+                    "@unit": "chapter"
+                },
+                {
+                    "@unit": "section"
+                }
+            ]
+        },
+        "name": "Livy",
+        "title": "livy.weisscomm39-40.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@delim": ".",
+                    "@unit": "book"
+                },
+                {
+                    "@delim": ".",
+                    "@unit": "chapter"
+                },
+                {
+                    "@unit": "section"
+                }
+            ]
+        },
+        "name": "Livy",
+        "title": "livy.weisscomm41-42.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@delim": ".",
+                    "@unit": "book"
+                },
+                {
+                    "@delim": ".",
+                    "@unit": "chapter"
+                },
+                {
+                    "@unit": "section"
+                }
+            ]
+        },
+        "name": "Livy",
+        "title": "livy.weisscomm43-44.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@delim": ".",
+                    "@unit": "book"
+                },
+                {
+                    "@delim": ".",
+                    "@unit": "chapter"
+                },
+                {
+                    "@unit": "section"
+                }
+            ]
+        },
+        "name": "Livy",
+        "title": "livy.weisscomm45.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": {
+                "@n": "chunk",
+                "@unit": "book"
+            }
+        },
+        "name": "Livy",
+        "title": "livy_bohn.perioch.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@unit": "book"
+                },
+                {
+                    "@n": "chunk",
+                    "@unit": "chapter"
+                }
+            ]
+        },
+        "name": "Livy",
+        "title": "livy_bohn1.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@unit": "book"
+                },
+                {
+                    "@n": "chunk",
+                    "@unit": "chapter"
+                }
+            ]
+        },
+        "name": "Livy",
+        "title": "livy_bohn2.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@unit": "book"
+                },
+                {
+                    "@n": "chunk",
+                    "@unit": "chapter"
+                }
+            ]
+        },
+        "name": "Livy",
+        "title": "livy_bohn3.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@unit": "book"
+                },
+                {
+                    "@n": "chunk",
+                    "@unit": "chapter"
+                }
+            ]
+        },
+        "name": "Livy",
+        "title": "livy_bohn4.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@unit": "book"
+                },
+                {
+                    "@unit": "line"
+                }
+            ]
+        },
+        "name": "Lucan",
+        "title": "pharsalia_eng.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@unit": "book"
+                },
+                {
+                    "@unit": "line"
+                }
+            ]
+        },
+        "name": "Lucan",
+        "title": "pharsalia_lat.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@unit": "book"
+                },
+                {
+                    "@unit": "poem"
+                },
+                {
+                    "@unit": "line"
+                }
+            ]
+        },
+        "name": "Martial",
+        "title": "martial_lat.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@delim": ".",
+                    "@unit": "chapter"
+                },
+                {
+                    "@unit": "section"
+                }
+            ]
+        },
+        "name": "MinuciusFelix",
+        "title": "minfel.octav_lat.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@unit": "life"
+                },
+                {
+                    "@n": "chunk",
+                    "@unit": "chapter"
+                },
+                {
+                    "@unit": "section"
+                }
+            ]
+        },
+        "name": "Nepos",
+        "title": "lives_lat.xml.json"
+    },
+    {
+        "encoding": [
+            {
+                "@doctype": "TEI.2",
+                "state": {
+                    "@n": "chunk",
+                    "@unit": "carte"
+                }
+            },
+            {
+                "@doctype": "TEI.2",
+                "@n": "text=intro",
+                "state": [
+                    {
+                        "@unit": "text"
+                    },
+                    {
+                        "@n": "chunk",
+                        "@unit": "section"
+                    }
+                ]
+            },
+            {
+                "@doctype": "TEI.2",
+                "@n": "text=Ars",
+                "state": [
+                    {
+                        "@unit": "text"
+                    },
+                    {
+                        "@unit": "book"
+                    },
+                    {
+                        "@unit": "line"
+                    }
+                ]
+            },
+            {
+                "@doctype": "TEI.2",
+                "@n": "text=Rem.",
+                "state": [
+                    {
+                        "@unit": "text"
+                    },
+                    {
+                        "@unit": "line"
+                    }
+                ]
+            },
+            {
+                "@doctype": "TEI.2",
+                "@n": "text=Med.",
+                "state": [
+                    {
+                        "@unit": "text"
+                    },
+                    {
+                        "@unit": "line"
+                    }
+                ]
+            },
+            {
+                "@doctype": "TEI.2",
+                "@n": "text=Court",
+                "state": [
+                    {
+                        "@unit": "text"
+                    },
+                    {
+                        "@unit": "carte"
+                    }
+                ]
+            },
+            {
+                "@doctype": "TEI.2",
+                "@n": "text=Hist.",
+                "state": [
+                    {
+                        "@unit": "text"
+                    },
+                    {
+                        "@n": "chunk",
+                        "@unit": "section"
+                    },
+                    {
+                        "@unit": "line"
+                    }
+                ]
+            },
+            {
+                "@doctype": "TEI.2",
+                "@n": "text=Am.",
+                "state": [
+                    {
+                        "@unit": "text"
+                    },
+                    {
+                        "@unit": "book"
+                    },
+                    {
+                        "@n": "chunk",
+                        "@unit": "poem"
+                    },
+                    {
+                        "@unit": "line"
+                    }
+                ]
+            }
+        ],
+        "name": "Ovid",
+        "title": "ovid.am_eng.xml.json"
+    },
+    {
+        "encoding": [
+            {
+                "@doctype": "TEI.2",
+                "@n": "text=Am.",
+                "state": [
+                    {
+                        "@unit": "text"
+                    },
+                    {
+                        "@unit": "book"
+                    },
+                    {
+                        "@n": "chunk",
+                        "@unit": "poem"
+                    },
+                    {
+                        "@unit": "line"
+                    }
+                ]
+            },
+            {
+                "@doctype": "TEI.2",
+                "@n": "text=Ep.",
+                "state": [
+                    {
+                        "@unit": "text"
+                    },
+                    {
+                        "@n": "chunk",
+                        "@unit": "poem"
+                    },
+                    {
+                        "@unit": "line"
+                    }
+                ]
+            },
+            {
+                "@doctype": "TEI.2",
+                "@n": "text=Med.",
+                "state": [
+                    {
+                        "@unit": "text"
+                    },
+                    {
+                        "@unit": "line"
+                    }
+                ]
+            },
+            {
+                "@doctype": "TEI.2",
+                "@n": "text=Ars",
+                "state": [
+                    {
+                        "@unit": "text"
+                    },
+                    {
+                        "@unit": "book"
+                    },
+                    {
+                        "@unit": "line"
+                    }
+                ]
+            },
+            {
+                "@doctype": "TEI.2",
+                "@n": "text=Rem.",
+                "state": [
+                    {
+                        "@unit": "text"
+                    },
+                    {
+                        "@unit": "line"
+                    }
+                ]
+            }
+        ],
+        "name": "Ovid",
+        "title": "ovid.am_lat.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": {
+                "@unit": "book"
+            }
+        },
+        "name": "Ovid",
+        "title": "ovid.fast_lat.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@delim": ".",
+                    "@unit": "book"
+                },
+                {
+                    "@unit": "line"
+                }
+            ]
+        },
+        "name": "Ovid",
+        "title": "ovid.golding.met_eng.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@unit": "poem"
+                },
+                {
+                    "@n": "chunk",
+                    "@unit": "commline"
+                }
+            ]
+        },
+        "name": "Ovid",
+        "title": "ovid.her_comm.xml.json"
+    },
+    {
+        "encoding": [
+            {
+                "@doctype": "TEI.2",
+                "state": [
+                    {
+                        "@unit": "poem"
+                    },
+                    {
+                        "@unit": "line"
+                    }
+                ]
+            },
+            {
+                "@doctype": "TEI.2",
+                "state": [
+                    {
+                        "@unit": "poem"
+                    },
+                    {
+                        "@n": "chunk",
+                        "@unit": "carte"
+                    }
+                ]
+            }
+        ],
+        "name": "Ovid",
+        "title": "ovid.her_eng.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": {
+                "@unit": "book"
+            }
+        },
+        "name": "Ovid",
+        "title": "ovid.ibis_lat.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@delim": ".",
+                    "@unit": "book"
+                },
+                {
+                    "@unit": "line"
+                }
+            ]
+        },
+        "name": "Ovid",
+        "title": "ovid.met_eng.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@delim": ".",
+                    "@unit": "book"
+                },
+                {
+                    "@unit": "line"
+                }
+            ]
+        },
+        "name": "Ovid",
+        "title": "ovid.met_lat.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@delim": ".",
+                    "@unit": "book"
+                },
+                {
+                    "@unit": "poem"
+                }
+            ]
+        },
+        "name": "Ovid",
+        "title": "ovid.pont_lat.xml.json"
+    },
+    {
+        "encoding": [
+            {
+                "@doctype": "TEI.2",
+                "state": [
+                    {
+                        "@delim": ".",
+                        "@unit": "book"
+                    },
+                    {
+                        "@n": "chunk",
+                        "@unit": "commLine"
+                    }
+                ]
+            },
+            {
+                "@doctype": "TEI.2",
+                "state": [
+                    {
+                        "@delim": ".",
+                        "@unit": "book"
+                    },
+                    {
+                        "@n": "chunk",
+                        "@unit": "card"
+                    }
+                ]
+            }
+        ],
+        "name": "Ovid",
+        "title": "ovid.simm.met_eng.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@delim": ".",
+                    "@unit": "book"
+                },
+                {
+                    "@unit": "poem"
+                }
+            ]
+        },
+        "name": "Ovid",
+        "title": "ovid.tr_lat.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": {
+                "@unit": "satire"
+            }
+        },
+        "name": "Persius",
+        "title": "persius.sat_lat.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": {
+                "@unit": "section"
+            }
+        },
+        "name": "Petronius",
+        "title": "petr.poems_intro.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@delim": ".",
+                    "@unit": "text"
+                },
+                {
+                    "@unit": "section"
+                }
+            ]
+        },
+        "name": "Petronius",
+        "title": "petr_eng.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": {
+                "@unit": "text"
+            }
+        },
+        "name": "Petronius",
+        "title": "petr_intro.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@delim": ".",
+                    "@unit": "text"
+                },
+                {
+                    "@unit": "section"
+                }
+            ]
+        },
+        "name": "Petronius",
+        "title": "petr_lat.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@unit": "chapter"
+                },
+                {
+                    "@n": "chunk",
+                    "@unit": "para"
+                }
+            ]
+        },
+        "name": "Plautus",
+        "title": "lindsay_syntax.xml.json"
+    },
+    {
+        "encoding": [
+            {
+                "@doctype": "TEI.2",
+                "state": [
+                    {
+                        "@unit": "act"
+                    },
+                    {
+                        "@n": "chunk",
+                        "@unit": "scene"
+                    }
+                ]
+            },
+            {
+                "@doctype": "TEI.2",
+                "state": {
+                    "@unit": "TLN line"
+                }
+            }
+        ],
+        "name": "Plautus",
+        "title": "pl.am_eng.xml.json"
+    },
+    {
+        "encoding": [
+            {
+                "@doctype": "TEI.2",
+                "state": [
+                    {
+                        "@unit": "act"
+                    },
+                    {
+                        "@n": "chunk",
+                        "@unit": "scene"
+                    }
+                ]
+            },
+            {
+                "@doctype": "TEI.2",
+                "state": {
+                    "@unit": "TLN line"
+                }
+            }
+        ],
+        "name": "Plautus",
+        "title": "pl.am_lat.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@unit": "act"
+                },
+                {
+                    "@n": "chunk",
+                    "@unit": "scene"
+                },
+                {
+                    "@unit": "line"
+                }
+            ]
+        },
+        "name": "Plautus",
+        "title": "pl.as_eng.xml.json"
+    },
+    {
+        "encoding": [
+            {
+                "@doctype": "TEI.2",
+                "state": [
+                    {
+                        "@unit": "act"
+                    },
+                    {
+                        "@n": "chunk",
+                        "@unit": "scene"
+                    }
+                ]
+            },
+            {
+                "@doctype": "TEI.2",
+                "state": {
+                    "@unit": "TLN line"
+                }
+            }
+        ],
+        "name": "Plautus",
+        "title": "pl.as_lat.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@unit": "act"
+                },
+                {
+                    "@n": "chunk",
+                    "@unit": "scene"
+                },
+                {
+                    "@unit": "line"
+                }
+            ]
+        },
+        "name": "Plautus",
+        "title": "pl.aul_eng.xml.json"
+    },
+    {
+        "encoding": [
+            {
+                "@doctype": "TEI.2",
+                "state": [
+                    {
+                        "@unit": "act"
+                    },
+                    {
+                        "@n": "chunk",
+                        "@unit": "scene"
+                    }
+                ]
+            },
+            {
+                "@doctype": "TEI.2",
+                "state": {
+                    "@unit": "TLN line"
+                }
+            }
+        ],
+        "name": "Plautus",
+        "title": "pl.aul_lat.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@unit": "act"
+                },
+                {
+                    "@n": "chunk",
+                    "@unit": "scene"
+                },
+                {
+                    "@unit": "line"
+                }
+            ]
+        },
+        "name": "Plautus",
+        "title": "pl.bac_eng.xml.json"
+    },
+    {
+        "encoding": [
+            {
+                "@doctype": "TEI.2",
+                "state": [
+                    {
+                        "@unit": "act"
+                    },
+                    {
+                        "@n": "chunk",
+                        "@unit": "scene"
+                    }
+                ]
+            },
+            {
+                "@doctype": "TEI.2",
+                "state": {
+                    "@unit": "TLN line"
+                }
+            }
+        ],
+        "name": "Plautus",
+        "title": "pl.bac_lat.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@unit": "act"
+                },
+                {
+                    "@n": "chunk",
+                    "@unit": "scene"
+                },
+                {
+                    "@unit": "line"
+                }
+            ]
+        },
+        "name": "Plautus",
+        "title": "pl.capt_eng.xml.json"
+    },
+    {
+        "encoding": [
+            {
+                "@doctype": "TEI.2",
+                "state": [
+                    {
+                        "@unit": "act"
+                    },
+                    {
+                        "@n": "chunk",
+                        "@unit": "scene"
+                    }
+                ]
+            },
+            {
+                "@doctype": "TEI.2",
+                "state": {
+                    "@unit": "TLN line"
+                }
+            }
+        ],
+        "name": "Plautus",
+        "title": "pl.capt_lat.xml.json"
+    },
+    {
+        "encoding": [
+            {
+                "@doctype": "TEI.2",
+                "state": {
+                    "@unit": "TLN line"
+                }
+            },
+            {
+                "@doctype": "TEI.2",
+                "state": [
+                    {
+                        "@unit": "act"
+                    },
+                    {
+                        "@n": "chunk",
+                        "@unit": "scene"
+                    },
+                    {
+                        "@unit": "line"
+                    }
+                ]
+            }
+        ],
+        "name": "Plautus",
+        "title": "pl.cas_eng.xml.json"
+    },
+    {
+        "encoding": [
+            {
+                "@doctype": "TEI.2",
+                "state": [
+                    {
+                        "@unit": "act"
+                    },
+                    {
+                        "@n": "chunk",
+                        "@unit": "scene"
+                    }
+                ]
+            },
+            {
+                "@doctype": "TEI.2",
+                "state": {
+                    "@unit": "TLN line"
+                }
+            }
+        ],
+        "name": "Plautus",
+        "title": "pl.cas_lat.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@unit": "act"
+                },
+                {
+                    "@n": "chunk",
+                    "@unit": "scene"
+                },
+                {
+                    "@unit": "line"
+                }
+            ]
+        },
+        "name": "Plautus",
+        "title": "pl.cist_eng.xml.json"
+    },
+    {
+        "encoding": [
+            {
+                "@doctype": "TEI.2",
+                "state": [
+                    {
+                        "@unit": "act"
+                    },
+                    {
+                        "@n": "chunk",
+                        "@unit": "scene"
+                    }
+                ]
+            },
+            {
+                "@doctype": "TEI.2",
+                "state": {
+                    "@unit": "TLN line"
+                }
+            }
+        ],
+        "name": "Plautus",
+        "title": "pl.cist_lat.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@unit": "act"
+                },
+                {
+                    "@n": "chunk",
+                    "@unit": "scene"
+                },
+                {
+                    "@unit": "line"
+                }
+            ]
+        },
+        "name": "Plautus",
+        "title": "pl.cur_eng.xml.json"
+    },
+    {
+        "encoding": [
+            {
+                "@doctype": "TEI.2",
+                "state": [
+                    {
+                        "@unit": "act"
+                    },
+                    {
+                        "@n": "chunk",
+                        "@unit": "scene"
+                    }
+                ]
+            },
+            {
+                "@doctype": "TEI.2",
+                "state": {
+                    "@unit": "TLN line"
+                }
+            }
+        ],
+        "name": "Plautus",
+        "title": "pl.cur_lat.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@unit": "act"
+                },
+                {
+                    "@n": "chunk",
+                    "@unit": "scene"
+                },
+                {
+                    "@unit": "line"
+                }
+            ]
+        },
+        "name": "Plautus",
+        "title": "pl.epid_eng.xml.json"
+    },
+    {
+        "encoding": [
+            {
+                "@doctype": "TEI.2",
+                "state": [
+                    {
+                        "@unit": "act"
+                    },
+                    {
+                        "@n": "chunk",
+                        "@unit": "scene"
+                    }
+                ]
+            },
+            {
+                "@doctype": "TEI.2",
+                "state": {
+                    "@unit": "TLN line"
+                }
+            }
+        ],
+        "name": "Plautus",
+        "title": "pl.epid_lat.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@unit": "act"
+                },
+                {
+                    "@n": "chunk",
+                    "@unit": "scene"
+                },
+                {
+                    "@unit": "line"
+                }
+            ]
+        },
+        "name": "Plautus",
+        "title": "pl.men_eng.xml.json"
+    },
+    {
+        "encoding": [
+            {
+                "@doctype": "TEI.2",
+                "state": [
+                    {
+                        "@unit": "act"
+                    },
+                    {
+                        "@n": "chunk",
+                        "@unit": "scene"
+                    }
+                ]
+            },
+            {
+                "@doctype": "TEI.2",
+                "state": {
+                    "@unit": "TLN line"
+                }
+            }
+        ],
+        "name": "Plautus",
+        "title": "pl.men_lat.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@unit": "act"
+                },
+                {
+                    "@n": "chunk",
+                    "@unit": "scene"
+                },
+                {
+                    "@unit": "line"
+                }
+            ]
+        },
+        "name": "Plautus",
+        "title": "pl.mer_eng.xml.json"
+    },
+    {
+        "encoding": [
+            {
+                "@doctype": "TEI.2",
+                "state": [
+                    {
+                        "@unit": "act"
+                    },
+                    {
+                        "@n": "chunk",
+                        "@unit": "scene"
+                    }
+                ]
+            },
+            {
+                "@doctype": "TEI.2",
+                "state": {
+                    "@unit": "TLN line"
+                }
+            }
+        ],
+        "name": "Plautus",
+        "title": "pl.mer_lat.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@unit": "act"
+                },
+                {
+                    "@n": "chunk",
+                    "@unit": "scene"
+                },
+                {
+                    "@unit": "line"
+                }
+            ]
+        },
+        "name": "Plautus",
+        "title": "pl.mil_eng.xml.json"
+    },
+    {
+        "encoding": [
+            {
+                "@doctype": "TEI.2",
+                "state": [
+                    {
+                        "@unit": "act"
+                    },
+                    {
+                        "@n": "chunk",
+                        "@unit": "scene"
+                    }
+                ]
+            },
+            {
+                "@doctype": "TEI.2",
+                "state": {
+                    "@unit": "TLN line"
+                }
+            }
+        ],
+        "name": "Plautus",
+        "title": "pl.mil_lat.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@unit": "act"
+                },
+                {
+                    "@n": "chunk",
+                    "@unit": "scene"
+                },
+                {
+                    "@unit": "line"
+                }
+            ]
+        },
+        "name": "Plautus",
+        "title": "pl.mos_eng.xml.json"
+    },
+    {
+        "encoding": [
+            {
+                "@doctype": "TEI.2",
+                "state": [
+                    {
+                        "@unit": "act"
+                    },
+                    {
+                        "@n": "chunk",
+                        "@unit": "scene"
+                    }
+                ]
+            },
+            {
+                "@doctype": "TEI.2",
+                "state": {
+                    "@unit": "TLN line"
+                }
+            }
+        ],
+        "name": "Plautus",
+        "title": "pl.mos_lat.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@unit": "act"
+                },
+                {
+                    "@n": "chunk",
+                    "@unit": "scene"
+                },
+                {
+                    "@unit": "line"
+                }
+            ]
+        },
+        "name": "Plautus",
+        "title": "pl.per_eng.xml.json"
+    },
+    {
+        "encoding": [
+            {
+                "@doctype": "TEI.2",
+                "state": [
+                    {
+                        "@unit": "act"
+                    },
+                    {
+                        "@n": "chunk",
+                        "@unit": "scene"
+                    }
+                ]
+            },
+            {
+                "@doctype": "TEI.2",
+                "state": {
+                    "@unit": "TLN line"
+                }
+            }
+        ],
+        "name": "Plautus",
+        "title": "pl.per_lat.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@unit": "act"
+                },
+                {
+                    "@n": "chunk",
+                    "@unit": "scene"
+                },
+                {
+                    "@unit": "line"
+                }
+            ]
+        },
+        "name": "Plautus",
+        "title": "pl.poen_eng.xml.json"
+    },
+    {
+        "encoding": [
+            {
+                "@doctype": "TEI.2",
+                "state": [
+                    {
+                        "@unit": "act"
+                    },
+                    {
+                        "@n": "chunk",
+                        "@unit": "scene"
+                    }
+                ]
+            },
+            {
+                "@doctype": "TEI.2",
+                "state": {
+                    "@unit": "TLN line"
+                }
+            }
+        ],
+        "name": "Plautus",
+        "title": "pl.poen_lat.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@unit": "act"
+                },
+                {
+                    "@n": "chunk",
+                    "@unit": "scene"
+                },
+                {
+                    "@unit": "line"
+                }
+            ]
+        },
+        "name": "Plautus",
+        "title": "pl.ps_eng.xml.json"
+    },
+    {
+        "encoding": [
+            {
+                "@doctype": "TEI.2",
+                "state": [
+                    {
+                        "@unit": "act"
+                    },
+                    {
+                        "@n": "chunk",
+                        "@unit": "scene"
+                    }
+                ]
+            },
+            {
+                "@doctype": "TEI.2",
+                "state": {
+                    "@unit": "TLN line"
+                }
+            }
+        ],
+        "name": "Plautus",
+        "title": "pl.ps_lat.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@unit": "act"
+                },
+                {
+                    "@n": "chunk",
+                    "@unit": "scene"
+                },
+                {
+                    "@unit": "line"
+                }
+            ]
+        },
+        "name": "Plautus",
+        "title": "pl.rud_eng.xml.json"
+    },
+    {
+        "encoding": [
+            {
+                "@doctype": "TEI.2",
+                "state": [
+                    {
+                        "@unit": "act"
+                    },
+                    {
+                        "@n": "chunk",
+                        "@unit": "scene"
+                    }
+                ]
+            },
+            {
+                "@doctype": "TEI.2",
+                "state": {
+                    "@unit": "TLN line"
+                }
+            }
+        ],
+        "name": "Plautus",
+        "title": "pl.rud_lat.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@unit": "act"
+                },
+                {
+                    "@n": "chunk",
+                    "@unit": "scene"
+                },
+                {
+                    "@unit": "line"
+                }
+            ]
+        },
+        "name": "Plautus",
+        "title": "pl.st_eng.xml.json"
+    },
+    {
+        "encoding": [
+            {
+                "@doctype": "TEI.2",
+                "state": [
+                    {
+                        "@unit": "act"
+                    },
+                    {
+                        "@n": "chunk",
+                        "@unit": "scene"
+                    }
+                ]
+            },
+            {
+                "@doctype": "TEI.2",
+                "state": {
+                    "@unit": "TLN line"
+                }
+            }
+        ],
+        "name": "Plautus",
+        "title": "pl.st_lat.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@unit": "act"
+                },
+                {
+                    "@n": "chunk",
+                    "@unit": "scene"
+                },
+                {
+                    "@unit": "line"
+                }
+            ]
+        },
+        "name": "Plautus",
+        "title": "pl.trin_eng.xml.json"
+    },
+    {
+        "encoding": [
+            {
+                "@doctype": "TEI.2",
+                "state": [
+                    {
+                        "@unit": "act"
+                    },
+                    {
+                        "@n": "chunk",
+                        "@unit": "scene"
+                    }
+                ]
+            },
+            {
+                "@doctype": "TEI.2",
+                "state": {
+                    "@unit": "TLN line"
+                }
+            }
+        ],
+        "name": "Plautus",
+        "title": "pl.trin_lat.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@unit": "act"
+                },
+                {
+                    "@n": "chunk",
+                    "@unit": "scene"
+                },
+                {
+                    "@unit": "line"
+                }
+            ]
+        },
+        "name": "Plautus",
+        "title": "pl.truc_eng.xml.json"
+    },
+    {
+        "encoding": [
+            {
+                "@doctype": "TEI.2",
+                "state": [
+                    {
+                        "@unit": "act"
+                    },
+                    {
+                        "@n": "chunk",
+                        "@unit": "scene"
+                    }
+                ]
+            },
+            {
+                "@doctype": "TEI.2",
+                "state": {
+                    "@unit": "TLN line"
+                }
+            }
+        ],
+        "name": "Plautus",
+        "title": "pl.truc_lat.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@unit": "chapter"
+                },
+                {
+                    "@n": "chunk",
+                    "@unit": "paragraph"
+                }
+            ]
+        },
+        "name": "Plautus",
+        "title": "textcrit.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@unit": "book"
+                },
+                {
+                    "@unit": "chapter"
+                }
+            ]
+        },
+        "name": "Pliny",
+        "title": "pliny.maj.nh_eng.xml.json"
+    },
+    {
+        "encoding": {
+            "state": [
+                {
+                    "@unit": "book"
+                },
+                {
+                    "@n": "chunk",
+                    "@unit": "letter"
+                },
+                {
+                    "@unit": "section"
+                }
+            ]
+        },
+        "name": "Pliny",
+        "title": "pliny.min.letters_lat.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@unit": "book"
+                },
+                {
+                    "@unit": "chapter"
+                }
+            ]
+        },
+        "name": "Pliny",
+        "title": "plinyNH.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "step": [
+                {
+                    "@delim": ".",
+                    "@from": "DESCENDANT (1 DIV1 N %1)",
+                    "@refunit": "book"
+                },
+                {
+                    "@delim": ".",
+                    "@from": "DESCENDANT (1 DIV2 N %2)",
+                    "@n": "chunk",
+                    "@refunit": "poem"
+                },
+                {
+                    "@from": "DESCENDANT (1 L N %3)",
+                    "@refunit": "line"
+                }
+            ]
+        },
+        "name": "Propertius",
+        "title": "prop_lat.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": {
+                "@unit": "book"
+            }
+        },
+        "name": "Prudentius",
+        "title": "prud.01praef_lat.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": {
+                "@unit": "poem"
+            }
+        },
+        "name": "Prudentius",
+        "title": "prud.02cath_lat.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": {
+                "@unit": "section"
+            }
+        },
+        "name": "Prudentius",
+        "title": "prud.03apoth_lat.xml.json"
+    },
+    {
+        "encoding": [
+            {
+                "@doctype": "TEI.2",
+                "state": {
+                    "@unit": "preface"
+                }
+            },
+            {
+                "@doctype": "TEI.2",
+                "state": {
+                    "@unit": "section"
+                }
+            }
+        ],
+        "name": "Prudentius",
+        "title": "prud.04harm_lat.xml.json"
+    },
+    {
+        "encoding": [
+            {
+                "@doctype": "TEI.2",
+                "state": {
+                    "@unit": "preface"
+                }
+            },
+            {
+                "@doctype": "TEI.2",
+                "state": {
+                    "@unit": "section"
+                }
+            }
+        ],
+        "name": "Prudentius",
+        "title": "prud.05psych_lat.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@unit": "book"
+                },
+                {
+                    "@unit": "section"
+                }
+            ]
+        },
+        "name": "Prudentius",
+        "title": "prud.06sym_lat.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": {
+                "@unit": "poem"
+            }
+        },
+        "name": "Prudentius",
+        "title": "prud.07steph_lat.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": {
+                "@unit": "poem"
+            }
+        },
+        "name": "Prudentius",
+        "title": "prud.08hist_lat.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": {
+                "@unit": "section"
+            }
+        },
+        "name": "Prudentius",
+        "title": "prud.09epil_lat.xml.json"
+    },
+    {
+        "encoding": [
+            {
+                "@doctype": "TEI.2",
+                "state": [
+                    {
+                        "@unit": "book"
+                    },
+                    {
+                        "@unit": "chapter"
+                    },
+                    {
+                        "@unit": "section"
+                    }
+                ]
+            },
+            {
+                "@doctype": "TEI.2",
+                "state": {
+                    "@unit": "page"
+                }
+            }
+        ],
+        "name": "Quintilian",
+        "title": "quint.butler1-3_eng.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": {
+                "@unit": "front"
+            }
+        },
+        "name": "Quintilian",
+        "title": "quint.butler1-3_intro.xml.json"
+    },
+    {
+        "encoding": [
+            {
+                "@doctype": "TEI.2",
+                "state": [
+                    {
+                        "@unit": "book"
+                    },
+                    {
+                        "@unit": "chapter"
+                    },
+                    {
+                        "@unit": "section"
+                    }
+                ]
+            },
+            {
+                "@doctype": "TEI.2",
+                "state": {
+                    "@unit": "page"
+                }
+            }
+        ],
+        "name": "Quintilian",
+        "title": "quint.butler1-3_lat.xml.json"
+    },
+    {
+        "encoding": [
+            {
+                "@doctype": "TEI.2",
+                "state": [
+                    {
+                        "@unit": "book"
+                    },
+                    {
+                        "@unit": "chapter"
+                    },
+                    {
+                        "@unit": "section"
+                    }
+                ]
+            },
+            {
+                "@doctype": "TEI.2",
+                "state": {
+                    "@unit": "page"
+                }
+            }
+        ],
+        "name": "Quintilian",
+        "title": "quint.butler10-12_eng.xml.json"
+    },
+    {
+        "encoding": [
+            {
+                "@doctype": "TEI.2",
+                "state": [
+                    {
+                        "@unit": "book"
+                    },
+                    {
+                        "@unit": "chapter"
+                    },
+                    {
+                        "@unit": "section"
+                    }
+                ]
+            },
+            {
+                "@doctype": "TEI.2",
+                "state": {
+                    "@unit": "page"
+                }
+            }
+        ],
+        "name": "Quintilian",
+        "title": "quint.butler10-12_lat.xml.json"
+    },
+    {
+        "encoding": [
+            {
+                "@doctype": "TEI.2",
+                "state": [
+                    {
+                        "@unit": "book"
+                    },
+                    {
+                        "@unit": "chapter"
+                    },
+                    {
+                        "@unit": "section"
+                    }
+                ]
+            },
+            {
+                "@doctype": "TEI.2",
+                "state": {
+                    "@unit": "page"
+                }
+            }
+        ],
+        "name": "Quintilian",
+        "title": "quint.butler4-6_appcrit.xml.json"
+    },
+    {
+        "encoding": [
+            {
+                "@doctype": "TEI.2",
+                "state": [
+                    {
+                        "@unit": "book"
+                    },
+                    {
+                        "@unit": "chapter"
+                    },
+                    {
+                        "@unit": "section"
+                    }
+                ]
+            },
+            {
+                "@doctype": "TEI.2",
+                "state": {
+                    "@unit": "page"
+                }
+            }
+        ],
+        "name": "Quintilian",
+        "title": "quint.butler4-6_eng.xml.json"
+    },
+    {
+        "encoding": [
+            {
+                "@doctype": "TEI.2",
+                "state": [
+                    {
+                        "@unit": "book"
+                    },
+                    {
+                        "@unit": "chapter"
+                    },
+                    {
+                        "@unit": "section"
+                    }
+                ]
+            },
+            {
+                "@doctype": "TEI.2",
+                "state": {
+                    "@unit": "page"
+                }
+            }
+        ],
+        "name": "Quintilian",
+        "title": "quint.butler4-6_lat.xml.json"
+    },
+    {
+        "encoding": [
+            {
+                "@doctype": "TEI.2",
+                "state": [
+                    {
+                        "@unit": "book"
+                    },
+                    {
+                        "@unit": "chapter"
+                    },
+                    {
+                        "@unit": "section"
+                    }
+                ]
+            },
+            {
+                "@doctype": "TEI.2",
+                "state": {
+                    "@unit": "page"
+                }
+            }
+        ],
+        "name": "Quintilian",
+        "title": "quint.butler7-9_eng.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": {
+                "@unit": "front"
+            }
+        },
+        "name": "Quintilian",
+        "title": "quint.butler7-9_intro.xml.json"
+    },
+    {
+        "encoding": [
+            {
+                "@doctype": "TEI.2",
+                "state": [
+                    {
+                        "@unit": "book"
+                    },
+                    {
+                        "@unit": "chapter"
+                    },
+                    {
+                        "@unit": "section"
+                    }
+                ]
+            },
+            {
+                "@doctype": "TEI.2",
+                "state": {
+                    "@unit": "page"
+                }
+            }
+        ],
+        "name": "Quintilian",
+        "title": "quint.butler7-9_lat.xml.json"
+    },
+    {
+        "encoding": [
+            {
+                "refsDecl": {
+                    "@doctype": "TEI.2",
+                    "state": [
+                        {
+                            "@delim": ".",
+                            "@unit": "book"
+                        },
+                        {
+                            "@unit": "line"
+                        }
+                    ]
+                }
+            },
+            {
+                "p": "The type=\"displayNum\" attribute on the lb tags is used to indicate that line numbers on the line breaks are intended for display"
+            }
+        ],
+        "name": "Quintus",
+        "title": "quintsmyrn_01.xml.json"
+    },
+    {
+        "encoding": [
+            {
+                "@doctype": "TEI.2",
+                "state": [
+                    {
+                        "@unit": "text"
+                    },
+                    {
+                        "@unit": "chapter"
+                    }
+                ]
+            },
+            {
+                "@doctype": "TEI.2",
+                "@n": "text=Hist.",
+                "state": [
+                    {
+                        "@unit": "text"
+                    },
+                    {
+                        "@unit": "book"
+                    },
+                    {
+                        "@unit": "section"
+                    }
+                ]
+            }
+        ],
+        "name": "Sallust",
+        "title": "catjugfrag-appcrit.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": {
+                "@unit": "entry"
+            }
+        },
+        "name": "Sallust",
+        "title": "catjugfrag-index.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@unit": "chapter"
+                },
+                {
+                    "@unit": "section"
+                }
+            ]
+        },
+        "name": "Sallust",
+        "title": "catjugfrag-intro.xml.json"
+    },
+    {
+        "encoding": [
+            {
+                "@doctype": "TEI.2",
+                "state": [
+                    {
+                        "@unit": "text"
+                    },
+                    {
+                        "@unit": "chapter"
+                    }
+                ]
+            },
+            {
+                "@doctype": "TEI.2",
+                "@n": "text=Hist.",
+                "state": [
+                    {
+                        "@unit": "text"
+                    },
+                    {
+                        "@unit": "book"
+                    },
+                    {
+                        "@unit": "section"
+                    }
+                ]
+            }
+        ],
+        "name": "Sallust",
+        "title": "catjugfrag-text.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": {
+                "@unit": "chapter"
+            }
+        },
+        "name": "Sallust",
+        "title": "sallust.catil_eng.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": {
+                "@n": "chunk",
+                "@unit": "chapter"
+            }
+        },
+        "name": "Sallust",
+        "title": "sallust.catil_lat.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": {
+                "@n": "chunk",
+                "@unit": "chapter"
+            }
+        },
+        "name": "Sallust",
+        "title": "sallust.jugur_eng.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": {
+                "@n": "chunk",
+                "@unit": "chapter"
+            }
+        },
+        "name": "Sallust",
+        "title": "sallust.jugur_lat.xml.json"
+    },
+    {
+        "encoding": [
+            {
+                "@doctype": "TEI.2",
+                "step": {
+                    "@from": "DESCENDANT (1 L N%1)",
+                    "@refunit": "line"
+                }
+            },
+            {
+                "@doctype": "TEI.2",
+                "state": {
+                    "@unit": "card"
+                }
+            }
+        ],
+        "name": "Seneca",
+        "title": "sen.ag_lat.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": {
+                "@unit": "section"
+            }
+        },
+        "name": "Seneca",
+        "title": "sen.apoc_eng.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": {
+                "@unit": "chapter"
+            }
+        },
+        "name": "Seneca",
+        "title": "sen.apoc_intro.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": {
+                "@unit": "section"
+            }
+        },
+        "name": "Seneca",
+        "title": "sen.apoc_lat.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@unit": "book"
+                },
+                {
+                    "@n": "chunk",
+                    "@unit": "chapter"
+                },
+                {
+                    "@unit": "section"
+                }
+            ]
+        },
+        "name": "Seneca",
+        "title": "sen.ben_lat.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@unit": "book"
+                },
+                {
+                    "@n": "chunk",
+                    "@unit": "chapter"
+                },
+                {
+                    "@unit": "section"
+                }
+            ]
+        },
+        "name": "Seneca",
+        "title": "sen.brev.vit_lat.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@unit": "book"
+                },
+                {
+                    "@n": "chunk",
+                    "@unit": "chapter"
+                },
+                {
+                    "@unit": "section"
+                }
+            ]
+        },
+        "name": "Seneca",
+        "title": "sen.cl_lat.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@unit": "book"
+                },
+                {
+                    "@n": "chunk",
+                    "@unit": "chapter"
+                },
+                {
+                    "@unit": "section"
+                }
+            ]
+        },
+        "name": "Seneca",
+        "title": "sen.cons.helv_lat.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@unit": "book"
+                },
+                {
+                    "@n": "chunk",
+                    "@unit": "chapter"
+                },
+                {
+                    "@unit": "section"
+                }
+            ]
+        },
+        "name": "Seneca",
+        "title": "sen.cons.marc_lat.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@unit": "book"
+                },
+                {
+                    "@n": "chunk",
+                    "@unit": "chapter"
+                },
+                {
+                    "@unit": "section"
+                }
+            ]
+        },
+        "name": "Seneca",
+        "title": "sen.cons.polyb_lat.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@unit": "book"
+                },
+                {
+                    "@n": "chunk",
+                    "@unit": "chapter"
+                },
+                {
+                    "@unit": "section"
+                }
+            ]
+        },
+        "name": "Seneca",
+        "title": "sen.const_lat.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@unit": "letter"
+                },
+                {
+                    "@unit": "section"
+                }
+            ]
+        },
+        "name": "Seneca",
+        "title": "sen.ep_lat.xml.json"
+    },
+    {
+        "encoding": [
+            {
+                "@doctype": "TEI.2",
+                "step": {
+                    "@from": "DESCENDANT (1 L N%1)",
+                    "@refunit": "line"
+                }
+            },
+            {
+                "@doctype": "TEI.2",
+                "state": {
+                    "@unit": "card"
+                }
+            }
+        ],
+        "name": "Seneca",
+        "title": "sen.her.f_lat.xml.json"
+    },
+    {
+        "encoding": [
+            {
+                "@doctype": "TEI.2",
+                "step": {
+                    "@from": "DESCENDANT (1 L N%1)",
+                    "@refunit": "line"
+                }
+            },
+            {
+                "@doctype": "TEI.2",
+                "state": {
+                    "@unit": "card"
+                }
+            }
+        ],
+        "name": "Seneca",
+        "title": "sen.her.o_lat.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@unit": "book"
+                },
+                {
+                    "@n": "chunk",
+                    "@unit": "chapter"
+                },
+                {
+                    "@unit": "section"
+                }
+            ]
+        },
+        "name": "Seneca",
+        "title": "sen.ira_lat.xml.json"
+    },
+    {
+        "encoding": [
+            {
+                "@doctype": "TEI.2",
+                "step": {
+                    "@from": "DESCENDANT (1 L N%1)",
+                    "@refunit": "line"
+                }
+            },
+            {
+                "@doctype": "TEI.2",
+                "state": {
+                    "@unit": "card"
+                }
+            }
+        ],
+        "name": "Seneca",
+        "title": "sen.med_lat.xml.json"
+    },
+    {
+        "encoding": [
+            {
+                "@doctype": "TEI.2",
+                "step": {
+                    "@from": "DESCENDANT (1 L N%1)",
+                    "@refunit": "line"
+                }
+            },
+            {
+                "@doctype": "TEI.2",
+                "state": {
+                    "@unit": "card"
+                }
+            }
+        ],
+        "name": "Seneca",
+        "title": "sen.oct_lat.xml.json"
+    },
+    {
+        "encoding": [
+            {
+                "@doctype": "TEI.2",
+                "step": {
+                    "@from": "DESCENDANT (1 L N%1)",
+                    "@refunit": "line"
+                }
+            },
+            {
+                "@doctype": "TEI.2",
+                "state": {
+                    "@unit": "card"
+                }
+            }
+        ],
+        "name": "Seneca",
+        "title": "sen.oed_lat.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@unit": "book"
+                },
+                {
+                    "@n": "chunk",
+                    "@unit": "chapter"
+                },
+                {
+                    "@unit": "section"
+                }
+            ]
+        },
+        "name": "Seneca",
+        "title": "sen.ot.sap_lat.xml.json"
+    },
+    {
+        "encoding": [
+            {
+                "@doctype": "TEI.2",
+                "step": {
+                    "@from": "DESCENDANT (1 L N%1)",
+                    "@refunit": "line"
+                }
+            },
+            {
+                "@doctype": "TEI.2",
+                "state": {
+                    "@unit": "card"
+                }
+            }
+        ],
+        "name": "Seneca",
+        "title": "sen.phaed_lat.xml.json"
+    },
+    {
+        "encoding": [
+            {
+                "@doctype": "TEI.2",
+                "step": {
+                    "@from": "DESCENDANT (1 L N%1)",
+                    "@refunit": "line"
+                }
+            },
+            {
+                "@doctype": "TEI.2",
+                "state": {
+                    "@unit": "card"
+                }
+            }
+        ],
+        "name": "Seneca",
+        "title": "sen.phoen_lat.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@unit": "book"
+                },
+                {
+                    "@n": "chunk",
+                    "@unit": "chapter"
+                },
+                {
+                    "@unit": "section"
+                }
+            ]
+        },
+        "name": "Seneca",
+        "title": "sen.prov_lat.xml.json"
+    },
+    {
+        "encoding": [
+            {
+                "@doctype": "TEI.2",
+                "step": {
+                    "@from": "DESCENDANT (1 L N%1)",
+                    "@refunit": "line"
+                }
+            },
+            {
+                "@doctype": "TEI.2",
+                "state": {
+                    "@unit": "card"
+                }
+            }
+        ],
+        "name": "Seneca",
+        "title": "sen.thy_lat.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@unit": "book"
+                },
+                {
+                    "@n": "chunk",
+                    "@unit": "chapter"
+                },
+                {
+                    "@unit": "section"
+                }
+            ]
+        },
+        "name": "Seneca",
+        "title": "sen.tranq_lat.xml.json"
+    },
+    {
+        "encoding": [
+            {
+                "@doctype": "TEI.2",
+                "step": {
+                    "@from": "DESCENDANT (1 L N%1)",
+                    "@refunit": "line"
+                }
+            },
+            {
+                "@doctype": "TEI.2",
+                "state": {
+                    "@unit": "card"
+                }
+            }
+        ],
+        "name": "Seneca",
+        "title": "sen.tro_lat.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@unit": "book"
+                },
+                {
+                    "@n": "chunk",
+                    "@unit": "chapter"
+                },
+                {
+                    "@unit": "section"
+                }
+            ]
+        },
+        "name": "Seneca",
+        "title": "sen.vit.beat_lat.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@unit": "book"
+                },
+                {
+                    "@n": "chunk",
+                    "@unit": "chapter"
+                },
+                {
+                    "@unit": "section"
+                }
+            ]
+        },
+        "name": "Seneca1",
+        "title": "seneca.contr_lat.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@unit": "book"
+                },
+                {
+                    "@n": "chunk",
+                    "@unit": "chapter"
+                },
+                {
+                    "@unit": "section"
+                }
+            ]
+        },
+        "name": "Seneca1",
+        "title": "seneca.excer_lat.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@unit": "book"
+                },
+                {
+                    "@n": "chunk",
+                    "@unit": "fragment"
+                }
+            ]
+        },
+        "name": "Seneca1",
+        "title": "seneca.frag_lat.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@n": "chunk",
+                    "@unit": "chapter"
+                },
+                {
+                    "@unit": "section"
+                }
+            ]
+        },
+        "name": "Seneca1",
+        "title": "seneca.suas_lat.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "@n": "text=1",
+            "state": [
+                {
+                    "@unit": "text"
+                },
+                {
+                    "@unit": "book"
+                },
+                {
+                    "@n": "chunk",
+                    "@unit": "chapter"
+                },
+                {
+                    "@unit": "section"
+                }
+            ]
+        },
+        "name": "SiliusItalicus",
+        "title": "silius.punica_lat.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": {
+                "@unit": "book"
+            }
+        },
+        "name": "Statius",
+        "title": "stat.achill_lat.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@unit": "book"
+                },
+                {
+                    "@n": "chunk",
+                    "@unit": "poem"
+                }
+            ]
+        },
+        "name": "Statius",
+        "title": "stat.silvae_lat.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": {
+                "@unit": "book"
+            }
+        },
+        "name": "Statius",
+        "title": "stat.theb_lat.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@delim": " ",
+                    "@unit": "life"
+                },
+                {
+                    "@delim": ".",
+                    "@unit": "chapter"
+                },
+                {
+                    "@unit": "section"
+                }
+            ]
+        },
+        "name": "Suetonius",
+        "title": "suet.caes_lat.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@delim": " ",
+                    "@unit": "life"
+                },
+                {
+                    "@unit": "chapter"
+                }
+            ]
+        },
+        "name": "Suetonius",
+        "title": "suet.thomson_eng.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@n": "chunk",
+                    "@unit": "poem"
+                },
+                {
+                    "@unit": "line"
+                }
+            ]
+        },
+        "name": "Sulpicia",
+        "title": "sulpicia_eng.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@n": "chunk",
+                    "@unit": "chapter"
+                },
+                {
+                    "@unit": "section"
+                }
+            ]
+        },
+        "name": "Tacitus",
+        "title": "tac.ag_lat.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@unit": "book"
+                },
+                {
+                    "@n": "chunk",
+                    "@unit": "chapter"
+                }
+            ]
+        },
+        "name": "Tacitus",
+        "title": "tac.ann_lat.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@n": "chunk",
+                    "@unit": "chapter"
+                },
+                {
+                    "@unit": "section"
+                }
+            ]
+        },
+        "name": "Tacitus",
+        "title": "tac.dial_lat.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@n": "chunk",
+                    "@unit": "chapter"
+                },
+                {
+                    "@unit": "section"
+                }
+            ]
+        },
+        "name": "Tacitus",
+        "title": "tac.ger_lat.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@unit": "book"
+                },
+                {
+                    "@n": "chunk",
+                    "@unit": "chapter"
+                }
+            ]
+        },
+        "name": "Tacitus",
+        "title": "tac.hist_lat.xml.json"
+    },
+    {
+        "encoding": [
+            {
+                "@doctype": "TEI.2",
+                "state": {
+                    "@unit": "TLN line"
+                }
+            },
+            {
+                "@doctype": "TEI.2",
+                "state": [
+                    {
+                        "@unit": "act"
+                    },
+                    {
+                        "@n": "chunk",
+                        "@unit": "scene"
+                    },
+                    {
+                        "@unit": "line"
+                    }
+                ]
+            }
+        ],
+        "name": "Terence",
+        "title": "ad_eng.xml.json"
+    },
+    {
+        "encoding": [
+            {
+                "@doctype": "TEI.2",
+                "state": {
+                    "@unit": "TLN line"
+                }
+            },
+            {
+                "@doctype": "TEI.2",
+                "state": [
+                    {
+                        "@unit": "act"
+                    },
+                    {
+                        "@n": "chunk",
+                        "@unit": "scene"
+                    },
+                    {
+                        "@unit": "line"
+                    }
+                ]
+            }
+        ],
+        "name": "Terence",
+        "title": "ad_lat.xml.json"
+    },
+    {
+        "encoding": [
+            {
+                "@doctype": "TEI.2",
+                "state": {
+                    "@unit": "TLN line"
+                }
+            },
+            {
+                "@doctype": "TEI.2",
+                "state": [
+                    {
+                        "@unit": "act"
+                    },
+                    {
+                        "@n": "chunk",
+                        "@unit": "scene"
+                    },
+                    {
+                        "@unit": "line"
+                    }
+                ]
+            }
+        ],
+        "name": "Terence",
+        "title": "an_eng.xml.json"
+    },
+    {
+        "encoding": [
+            {
+                "@doctype": "TEI.2",
+                "state": {
+                    "@unit": "TLN line"
+                }
+            },
+            {
+                "@doctype": "TEI.2",
+                "state": [
+                    {
+                        "@unit": "act"
+                    },
+                    {
+                        "@n": "chunk",
+                        "@unit": "scene"
+                    },
+                    {
+                        "@unit": "line"
+                    }
+                ]
+            }
+        ],
+        "name": "Terence",
+        "title": "an_lat.xml.json"
+    },
+    {
+        "encoding": [
+            {
+                "@doctype": "TEI.2",
+                "state": {
+                    "@unit": "TLN line"
+                }
+            },
+            {
+                "@doctype": "TEI.2",
+                "state": [
+                    {
+                        "@unit": "act"
+                    },
+                    {
+                        "@n": "chunk",
+                        "@unit": "scene"
+                    },
+                    {
+                        "@unit": "line"
+                    }
+                ]
+            }
+        ],
+        "name": "Terence",
+        "title": "eu_eng.xml.json"
+    },
+    {
+        "encoding": [
+            {
+                "@doctype": "TEI.2",
+                "state": {
+                    "@unit": "TLN line"
+                }
+            },
+            {
+                "@doctype": "TEI.2",
+                "state": [
+                    {
+                        "@unit": "act"
+                    },
+                    {
+                        "@n": "chunk",
+                        "@unit": "scene"
+                    },
+                    {
+                        "@unit": "line"
+                    }
+                ]
+            }
+        ],
+        "name": "Terence",
+        "title": "eu_lat.xml.json"
+    },
+    {
+        "encoding": [
+            {
+                "@doctype": "TEI.2",
+                "state": {
+                    "@unit": "TLN line"
+                }
+            },
+            {
+                "@doctype": "TEI.2",
+                "state": [
+                    {
+                        "@unit": "act"
+                    },
+                    {
+                        "@n": "chunk",
+                        "@unit": "scene"
+                    },
+                    {
+                        "@unit": "line"
+                    }
+                ]
+            }
+        ],
+        "name": "Terence",
+        "title": "hau_eng.xml.json"
+    },
+    {
+        "encoding": [
+            {
+                "@doctype": "TEI.2",
+                "state": {
+                    "@unit": "TLN line"
+                }
+            },
+            {
+                "@doctype": "TEI.2",
+                "state": [
+                    {
+                        "@unit": "act"
+                    },
+                    {
+                        "@n": "chunk",
+                        "@unit": "scene"
+                    },
+                    {
+                        "@unit": "line"
+                    }
+                ]
+            }
+        ],
+        "name": "Terence",
+        "title": "hau_lat.xml.json"
+    },
+    {
+        "encoding": [
+            {
+                "@doctype": "TEI.2",
+                "state": {
+                    "@unit": "TLN line"
+                }
+            },
+            {
+                "@doctype": "TEI.2",
+                "state": [
+                    {
+                        "@unit": "act"
+                    },
+                    {
+                        "@n": "chunk",
+                        "@unit": "scene"
+                    },
+                    {
+                        "@unit": "line"
+                    }
+                ]
+            }
+        ],
+        "name": "Terence",
+        "title": "hec_eng.xml.json"
+    },
+    {
+        "encoding": [
+            {
+                "@doctype": "TEI.2",
+                "state": {
+                    "@unit": "TLN line"
+                }
+            },
+            {
+                "@doctype": "TEI.2",
+                "state": [
+                    {
+                        "@unit": "act"
+                    },
+                    {
+                        "@n": "chunk",
+                        "@unit": "scene"
+                    },
+                    {
+                        "@unit": "line"
+                    }
+                ]
+            }
+        ],
+        "name": "Terence",
+        "title": "hec_lat.xml.json"
+    },
+    {
+        "encoding": [
+            {
+                "@doctype": "TEI.2",
+                "state": {
+                    "@unit": "TLN line"
+                }
+            },
+            {
+                "@doctype": "TEI.2",
+                "state": [
+                    {
+                        "@unit": "act"
+                    },
+                    {
+                        "@n": "chunk",
+                        "@unit": "scene"
+                    },
+                    {
+                        "@unit": "line"
+                    }
+                ]
+            }
+        ],
+        "name": "Terence",
+        "title": "ph_eng.xml.json"
+    },
+    {
+        "encoding": [
+            {
+                "@doctype": "TEI.2",
+                "state": {
+                    "@unit": "TLN line"
+                }
+            },
+            {
+                "@doctype": "TEI.2",
+                "state": [
+                    {
+                        "@unit": "act"
+                    },
+                    {
+                        "@n": "chunk",
+                        "@unit": "scene"
+                    },
+                    {
+                        "@unit": "line"
+                    }
+                ]
+            }
+        ],
+        "name": "Terence",
+        "title": "ph_lat.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@delim": ".",
+                    "@unit": "chapter"
+                },
+                {
+                    "@unit": "section"
+                }
+            ]
+        },
+        "name": "Tertullian",
+        "title": "tert.apol_lat.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@delim": ".",
+                    "@unit": "chapter"
+                },
+                {
+                    "@unit": "section"
+                }
+            ]
+        },
+        "name": "Tertullian",
+        "title": "tert.spect_lat.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@unit": "book"
+                },
+                {
+                    "@unit": "poem"
+                }
+            ]
+        },
+        "name": "Tibullus",
+        "title": "tibullus.el_lat.xml.json"
+    },
+    {
+        "encoding": [
+            {
+                "@doctype": "TEI.2",
+                "step": [
+                    {
+                        "@delim": ".",
+                        "@from": "DESCENDANT (1 DIV1 N %1)",
+                        "@refunit": "book"
+                    },
+                    {
+                        "@from": "DESCENDANT (1 DIV2 N %2)",
+                        "@n": "chunk",
+                        "@refunit": "commline"
+                    }
+                ]
+            },
+            {
+                "@doctype": "TEI.2",
+                "step": [
+                    {
+                        "@delim": ".",
+                        "@from": "DESCENDANT (1 DIV1 N %1)",
+                        "@refunit": "book"
+                    },
+                    {
+                        "@n": "chunk",
+                        "@refunit": "card"
+                    }
+                ]
+            }
+        ],
+        "name": "Vergil",
+        "title": "c.verg.aen1_eng.xml.json"
+    },
+    {
+        "encoding": [
+            {
+                "@doctype": "TEI.2",
+                "step": [
+                    {
+                        "@delim": ".",
+                        "@from": "DESCENDANT (1 DIV1 N %1)",
+                        "@refunit": "book"
+                    },
+                    {
+                        "@from": "DESCENDANT (1 DIV2 N %2)",
+                        "@n": "chunk",
+                        "@refunit": "commline"
+                    }
+                ]
+            },
+            {
+                "@doctype": "TEI.2",
+                "step": [
+                    {
+                        "@delim": ".",
+                        "@from": "DESCENDANT (1 DIV1 N %1)",
+                        "@refunit": "book"
+                    },
+                    {
+                        "@n": "chunk",
+                        "@refunit": "card"
+                    }
+                ]
+            },
+            {
+                "@doctype": "TEI.2",
+                "state": {
+                    "@n": "chunk",
+                    "@unit": "appendix"
+                }
+            }
+        ],
+        "name": "Vergil",
+        "title": "c.verg.aen2_eng.xml.json"
+    },
+    {
+        "encoding": [
+            {
+                "@doctype": "TEI.2",
+                "step": [
+                    {
+                        "@delim": ".",
+                        "@from": "DESCENDANT (1 DIV1 N %1)",
+                        "@refunit": "book"
+                    },
+                    {
+                        "@from": "DESCENDANT (1 DIV2 N %2)",
+                        "@n": "chunk",
+                        "@refunit": "commline"
+                    }
+                ]
+            },
+            {
+                "@doctype": "TEI.2",
+                "step": [
+                    {
+                        "@delim": ".",
+                        "@from": "DESCENDANT (1 DIV1 N %1)",
+                        "@refunit": "book"
+                    },
+                    {
+                        "@n": "chunk",
+                        "@refunit": "card"
+                    }
+                ]
+            }
+        ],
+        "name": "Vergil",
+        "title": "serv.verg.aen_lat.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "step": [
+                {
+                    "@delim": ".",
+                    "@from": "DESCENDANT (1 DIV1 N %1)",
+                    "@refunit": "poem"
+                },
+                {
+                    "@from": "DESCENDANT (1 DIV2 N %2)",
+                    "@n": "chunk",
+                    "@refunit": "commline"
+                }
+            ]
+        },
+        "name": "Vergil",
+        "title": "serv.verg.ecl_lat.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "step": [
+                {
+                    "@delim": ".",
+                    "@from": "DESCENDANT (1 DIV1 N %1)",
+                    "@refunit": "book"
+                },
+                {
+                    "@from": "DESCENDANT (1 DIV2 N %2)",
+                    "@n": "chunk",
+                    "@refunit": "commline"
+                }
+            ]
+        },
+        "name": "Vergil",
+        "title": "serv.verg.georg_lat.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@unit": "book"
+                },
+                {
+                    "@n": "chunk",
+                    "@unit": "card"
+                }
+            ]
+        },
+        "name": "Vergil",
+        "title": "verg.a.w_eng.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "state": [
+                {
+                    "@unit": "book"
+                },
+                {
+                    "@n": "chunk",
+                    "@unit": "card"
+                }
+            ]
+        },
+        "name": "Vergil",
+        "title": "verg.a_lat.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "step": [
+                {
+                    "@delim": ".",
+                    "@from": "DESCENDANT (1 DIV1 N %1)",
+                    "@refunit": "poem"
+                },
+                {
+                    "@from": "DESCENDANT (1 L N %2)",
+                    "@refunit": "line"
+                }
+            ]
+        },
+        "name": "Vergil",
+        "title": "verg.ecl_eng.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "step": [
+                {
+                    "@delim": ".",
+                    "@from": "DESCENDANT (1 DIV1 N %1)",
+                    "@refunit": "poem"
+                },
+                {
+                    "@from": "DESCENDANT (%2 L)",
+                    "@refunit": "line"
+                }
+            ]
+        },
+        "name": "Vergil",
+        "title": "verg.ecl_lat.xml.json"
+    },
+    {
+        "encoding": [
+            {
+                "@doctype": "TEI.2",
+                "step": [
+                    {
+                        "@delim": ".",
+                        "@from": "DESCENDANT (1 DIV1 N %2)",
+                        "@refunit": "book"
+                    },
+                    {
+                        "@delim": "trans",
+                        "@from": "DESCENDANT (1 MILESTONE UNIT line N %3)",
+                        "@refunit": "line"
+                    }
+                ]
+            },
+            {
+                "@doctype": "TEI.2",
+                "state": [
+                    {
+                        "@unit": "book"
+                    },
+                    {
+                        "@n": "chunk",
+                        "@unit": "card"
+                    }
+                ]
+            }
+        ],
+        "name": "Vergil",
+        "title": "verg.g_eng.xml.json"
+    },
+    {
+        "encoding": [
+            {
+                "@doctype": "TEI.2",
+                "step": [
+                    {
+                        "@delim": ".",
+                        "@from": "DESCENDANT (1 DIV1 N %1)",
+                        "@refunit": "book"
+                    },
+                    {
+                        "@from": "DESCENDANT (%2 L)",
+                        "@refunit": "line"
+                    }
+                ]
+            },
+            {
+                "@doctype": "TEI.2",
+                "state": [
+                    {
+                        "@unit": "book"
+                    },
+                    {
+                        "@n": "chunk",
+                        "@unit": "card"
+                    }
+                ]
+            }
+        ],
+        "name": "Vergil",
+        "title": "verg.g_lat.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "step": [
+                {
+                    "@delim": ".",
+                    "@from": "DESCENDANT (1 DIV1 N %1)",
+                    "@refunit": "book"
+                },
+                {
+                    "@delim": ".",
+                    "@from": "DESCENDANT (1 DIV2 N %2)",
+                    "@refunit": "chapter"
+                },
+                {
+                    "@from": "DESCENDANT (1 DIV3 N %3)",
+                    "@refunit": "section"
+                }
+            ]
+        },
+        "name": "Vitruvius",
+        "title": "vitruv_eng.xml.json"
+    },
+    {
+        "encoding": {
+            "@doctype": "TEI.2",
+            "step": [
+                {
+                    "@delim": ".",
+                    "@from": "DESCENDANT (1 DIV1 N %1)",
+                    "@refunit": "book"
+                },
+                {
+                    "@delim": ".",
+                    "@from": "DESCENDANT (1 DIV2 N %2)",
+                    "@n": "chunk",
+                    "@refunit": "chapter"
+                },
+                {
+                    "@from": "DESCENDANT (1 L N %3)",
+                    "@refunit": "section"
+                }
+            ]
+        },
+        "name": "Vitruvius",
+        "title": "vitruv_lat.xml.json"
+    }
+]
