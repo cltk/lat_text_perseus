@@ -1,0 +1,851 @@
+{
+    "meta":"poem-line",
+    "author":"ausonius, decimus magnus.",
+    "text":{
+        "0":{
+            "0":"SI tineas cariemque pati te, charta, necesse est,",
+            "1":"incipe versiculis ante perire meis.",
+            "2":"\n malo, inquis, tineis. sapis, aerumnose libelle,",
+            "3":"perfungi mavis quod leviore malo.",
+            "4":"ast ego damnosae nolo otia perdere Musae, ",
+            "5":"iacturam somni quae parit atque olei.",
+            "6":"\n utilius dormire fuit, quam perdere somnum \n ",
+            "7":"\n atque oleum. bene ais: causa sed ista mihi est:",
+            "8":"irascor Proculo, cuius facundia tanta est,",
+            "9":"quantus honos, scripsit plurima, quae cohibet. ",
+            "10":"hune studeo ulcisci; et prompta est ultio vati:",
+            "11":"qui sua non edit carmina, nostra legat,",
+            "12":"huius in arbitrio est, seu te invenescere cedro,",
+            "13":"seu iubeat duris vermibus esse cibum,",
+            "14":"huic ego. quod nobis superest ignobilis oti, ",
+            "15":"deputo, sive legat, quae dabo, sive tegat."
+        },
+        "1":{
+            "0":"FAMA est fictilibus cenasse Agathoclea regem",
+            "1":"atque abacum Samio saepe onerasse luto,",
+            "2":"fereula geminatis cum poneret horrida 1 vasis",
+            "3":"et miseeret opes pauperiemque simul,",
+            "4":"quaerenti causam respondit: Rex ego qui sum \n ",
+            "5":"\n Sicaniae, figulo sum genitore satus. \n ",
+            "6":"fortunam reverenter habe, quicumque repente",
+            "7":"dives ab exili progrediere loco."
+        },
+        "2":{
+            "0":"TOXICA zelotypo dedit uxor moecha marito,",
+            "1":"nec satis ad mortem credidit esse datum,",
+            "2":"miscuit argenti letalia pondera vivi,",
+            "3":"cogeret ut celerem vis geminata necem,",
+            "4":"dividat haec si quis, faciunt discreta venenum;",
+            "5":"antidotum sumet, qui sociata bibet,",
+            "6":"ergo inter sese dum noxia pocula certant,",
+            "7":"cessit letalis noxa salutiferae.",
+            "8":"protinus et vacuos alvi petiere recessus,",
+            "9":"lubrica deiectis qua via nota cibis, ",
+            "10":"quam pia cura deum! prodest crudelior uxor:",
+            "11":"et, cum fata volunt, bina venena iuvant."
+        },
+        "3":{
+            "0":"LANGUENTEM Gaium moriturum dixerat olim",
+            "1":"Eunomus. evasit fati ope, non medici.",
+            "2":"paulo post ipsum videt, aut vidisse putavit,",
+            "3":"pallentem et multa mortis in effigie.",
+            "4":"\n Quis tu? \n Gaius, ait. Vivisne? hic abnuit. “Et quid ",
+            "5":"nunc agis hic?” “Missu Ditis, ait, venio,",
+            "6":"ut, quia notitiam rerumque hominumque tenerem,",
+            "7":"accirem medicos.” Eunomus obriguit.",
+            "8":"tum Gaius: “Metuas nihil, Eunome. dixi ego et omnes,",
+            "9":"nullum, qui saperet, dicere te medicum.”"
+        },
+        "4":{
+            "0":"LATRATUS catulorum, hinnitus fingis equorum,",
+            "1":"caprigenumque pecus lanigerosque greges",
+            "2":"habitu adsimulas; asinos quoque rudere dicas,",
+            "3":"cum vis Arcadicum fingere, Marce, pecus,",
+            "4":"gallorum cantus et ovantes gutture corvos ",
+            "5":"et quidquid vocum belua et ales habet,",
+            "6":"omnia cum simules ita vere. ut ficta negentur.",
+            "7":"non potes humanae vocis habere sonum."
+        },
+        "5":{
+            "0":"EMENDATA potest quaenam vox esse magistri,",
+            "1":"nomen qui proprium cum vitio loquitur?",
+            "2":"auxilium te nempe vocas, inseite magister?",
+            "3":"da rectum casum: iam solicismus eris."
+        },
+        "6":{
+            "0":"EMPTIS quod libris tibi bibliotheca referta est,",
+            "1":"doctum et grammaticum te, Philomuse, putas?",
+            "2":"hoc genere et chordas et plectra et barbita condes:",
+            "3":"omnia mercatus eras citharoedus eris."
+        },
+        "7":{
+            "0":"\n reminisco Rufus dixit in versu suo:",
+            "1":"cor ergo versus, immo Rufus, non habet."
+        },
+        "8":{
+            "0":"RUETORIS haec Rufi statua est: nil verius: ipse est,",
+            "1":"ipse, adeo linguam non habet et cerebrum.",
+            "2":"et riget et surda est et non videt: haec sibi constant;",
+            "3":"unum dissimile est: mollior ille fuit."
+        },
+        "9":{
+            "0":"\n ORE pulero, et ore muto, scire vis quae sim ? \n Volo. \n ",
+            "1":"\n Imago Rufi rhetoris Pictavici. \n ",
+            "2":"\n Diceret set ipse, vellem, rhetor hoc mi. \n Non potest. \n ",
+            "3":"\n Cur? \n Ipse rhetor est imago imaginis. \n "
+        },
+        "10":{
+            "0":"\n RHETORIS haec Rufi statua est? \n Si saxea, Rufi. \n ",
+            "1":"\n Cur id ais? \n Semper saxeus ipse fuit. \n "
+        },
+        "11":{
+            "0":"ELINGUEM quis te dicentis imagine pinxit?",
+            "1":"dic mihi, Rufe. taces? nil tibi tam simile est."
+        },
+        "12":{
+            "0":"\n HAEC Rufi tabula est. \n Nil verius. ipse nbi Rufus? \n ",
+            "1":"\n In eathedra. \n Quid agit? \n Hoc, quod et in tabula. \n "
+        },
+        "13":{
+            "0":"LAQUEO VELLET SUSPENDERE ex Graeco \n ",
+            "1":"QUI laqueum collo nectebat, repperit aurum",
+            "2":"thesaurique loco deposuit laqueum.",
+            "3":"at qui condiderat, postquam non repperit aurum,",
+            "4":"aptavit collo quem repetit laqueum."
+        },
+        "14":{
+            "0":"\n ἀρχὴ δέ τοι ἥμιδυ παντόσ \n ",
+            "1":"INCIPE: dimidium facti est coepisse, superfit",
+            "2":"dimidium: rursum hoc incipe et efficies."
+        },
+        "15":{
+            "0":"\n ὑ χάρισ βραδύπουσ ἄχαρισ χάρισ \n ",
+            "1":"GRATIA, quae tarda est, ingrata est. gratia namque",
+            "2":"cum fieri properat, gratia grata magis."
+        },
+        "16":{
+            "0":"SI bene quid facias, facias, cito. nam cito factum",
+            "1":"gratum erit. ingratum gratia tarda facit."
+        },
+        "17":{
+            "0":"DECEPTAE felix casus se miscuit arti:",
+            "1":"histrio, saltabat qui Capanea, ruit."
+        },
+        "18":{
+            "0":"DODRA ex dodrante est. sic collige: ius, aqua, vinum,",
+            "1":"sal, oleum, panis, mel, piper, herba: novem."
+        },
+        "19":{
+            "0":"\n DODRA vocor. \n Quae causa? \n Novem species gero. \n Quae sunt? \n ",
+            "1":"\n Ius. aqua. mel, vinum, panis, piper, herba, oleum. sal. \n "
+        },
+        "20":{
+            "0":"\n Δόδρα ποτὸν καὶ ἀρτθμός, ἔλω μέλι, οἶνον,\n ἔλαιον .",
+            "1":"\n ἄρτου, ἅλας. βοτάνην, ξωμόν. ὕδωρ, πέπερι ."
+        },
+        "21":{
+            "0":"“HANC amo quae me odit. contra illam quae me amat, odi.",
+            "1":"compone inter nos, si potes, alma Venus!”",
+            "2":"“ Perfacile id faciam: mores mutabo et amores;",
+            "3":"oderit haec, amet haec.” Rursus idem patiar. \n ",
+            "4":"\n Vis ambas ut ames? \n Si diligat utraque, vellem. \n ",
+            "5":"\n Hoc tibi tu praesta, Marce: ut amens, ama. \n "
+        },
+        "22":{
+            "0":"“SUASISTI, Venus, ecce, duas dyseros ut amarem.",
+            "1":"odit utraque: aliud da modo consilium.”",
+            "2":"\n Vince datis ambas. \n Cupio: verum arta domi res. \n ",
+            "3":"\n Pelliee promissis. \n Nulla fides inopi. \n ",
+            "4":"\n Antestare deos. \n Nec fas mihi fallere divos. \n ",
+            "5":"\n Pervigila ante fores. \n Nocte capi metuo. \n ",
+            "6":"\n Scribe elegos. \n Nequeo, Musarum et Apollinis expers. \n ",
+            "7":"\n Frange fores. \n Poenas iudicii metuo. \n ",
+            "8":"\n Stulte, ab amore mori pateris: non vis ob amorem? \n ",
+            "9":"\n Malo miser dici, quam miser atque reus. \n ",
+            "10":"\n Suasi, quod potui: tu alios modo consule. \n Dic quos? \n ",
+            "11":"“Quod sibi suaserunt, Phaedra et Elissa dabunt,",
+            "12":"quod Canace Phyllisque et fastidita Phaoni.” 1",
+            "13":"\n Hoc das consilium? tale datur miseris. \n "
+        },
+        "23":{
+            "0":"ANIECTA in triviis inhumati glabra iaccbat",
+            "1":"testa hominis, nudum iam cute calvitium.",
+            "2":"fleverunt alii: fletu non motus Aehilas,",
+            "3":"insuper et silicis verbere dissicuit.",
+            "4":"eminus ergo icto rediit lapis ultor ab osse",
+            "5":"auctorisque sui frontem oculosque petit,",
+            "6":"sic utinam certos manus impia dirigat ictus,",
+            "7":"auctorem ut feriant tela retorta suum.",
+            "8":"II"
+        },
+        "24":{
+            "0":"EST quod inane legas, est et quod vespere; laetis",
+            "1":"seria miscuimus, tempore uti placeant,",
+            "2":"non unus vitae color est nec carminis unus",
+            "3":"lector; habet tempus pagina quaeque suum;",
+            "4":"hoc mitrata Venus, probat hoc galeata Minerva; ",
+            "5":"Stoicus has partes, has Epicurus amat;",
+            "6":"salva mihi veterum maneat dum regula morum,",
+            "7":"plaudat permissis sobria musa iocis."
+        },
+        "25":{
+            "0":"PHOEBE potens numeris, praeses Tritonia bellis,",
+            "1":"tu quoque ab aerio praepes Victoria lapsu,",
+            "2":"come serenatum duplici diademate frontem",
+            "3":"serta ferens, quae dona togae, quae praemia pugnae,",
+            "4":"bellandi fandique potens Augustus honoiem ",
+            "5":"bis meret, ut geminet titulos, qui proelia Musis",
+            "6":"temperat et Getieum moderatur Apolline Martem. ",
+            "7":"arma inter Chunosque truces furtoque nocentes",
+            "8":"Sauromatas, quantum cessat de tempore belli,",
+            "9":"indulget Clariis tantum inter castra Camenis. ",
+            "10":"vix posuit volucres stridentia tela sagittas:",
+            "11":"Musarum ad calamos fertur manus, otia nescit",
+            "12":"et commutata meditatur arundine carmen:",
+            "13":"sed carmen non molle modis; bella horrida Martis",
+            "14":"Odrysii Thraessaeque viraginis arma retractat. ",
+            "15":"exulta, Aeacide: celebrans vate superbo",
+            "16":"rursum Romanusque tibi contingit Homerus."
+        },
+        "26":{
+            "0":"Cedere quae lato nescit fera saucia ferro",
+            "1":"armatique urget tela cruenta viri,",
+            "2":"quam grandes parvo patitur sub vulnere mortes",
+            "3":"et solam leti vim probat esse manum!",
+            "4":"mirantur casusque novos subitasque ruinas: ",
+            "5":"nec contenta ictos letaliter ire per artus,",
+            "6":"coniungit mortes una sagitta duas.",
+            "7":"plurima communi pereunt si fulminis ictu,",
+            "8":"haec quoque de caelo vulnera missa putes."
+        },
+        "27":{
+            "0":"Illyricis regnator aquis, tibi, Nile, secundus",
+            "1":"Danuvius laetum pro fero fonte caput.",
+            "2":"salvere Augustus iubeo, natumque patremque,",
+            "3":"armiferis alvi quos ego Pannoniis.",
+            "4":"nuntius Euxiuo iam nunc volo currere ponto, ",
+            "5":"ut sciat hoc superum cura secunda Valens,",
+            "6":"caede, fuga, flammis stratos periisse Suebos",
+            "7":"nec Rhenum Gallis limitis esse loco.",
+            "8":"quod si lege maris refluus mihi curreret amnis.",
+            "9":"huc possem victos inde referre Gothos. "
+        },
+        "28":{
+            "0":"NUNC te marmoreum pro sumptu fecimus: at cum",
+            "1":"Augustus frater remeaverit, aureus esto."
+        },
+        "29":{
+            "0":"GRATIANO OCCISIS EST",
+            "1":"Quod leo tam tenui patitur sub harundine letum,",
+            "2":"non vires ferri, sed ferientis agunt."
+        },
+        "30":{
+            "0":"AUGUSTI",
+            "1":"DANUNIUS penitis caput occultatus in oris",
+            "2":"totus sub vestra iam dicione fluo:",
+            "3":"qua gelidum fontem mediis effundo Suebis,",
+            "4":"imperiis gravidas qua seco Pannonias,",
+            "5":"et qua dives aquis Scythico solvo ostia ponto, 5",
+            "6":"omnia sub vestrum flumina mitto iugum.",
+            "7":"Augusto dabitur sed proxima palma Valenti:",
+            "8":"inveniet fontes hic quoque, Nile, tuos."
+        },
+        "31":{
+            "0":"Vane, quid adfectus faciem mihi ponere, pictor,",
+            "1":"ignotamque oculis sollicitare deam?",
+            "2":"Aeris et Linguae sum filia, mater inanis",
+            "3":"indicii, vocem quae sine mente gero.",
+            "4":"extremos pereunte modos a fine reducens, ",
+            "5":"ludificata sequor verba aliena meis.",
+            "6":"auribus in vestris habito penetrabilis Echo:",
+            "7":"et, si vis similem pingere, pinge sonum."
+        },
+        "32":{
+            "0":"Cuius opus? Phidiae: qui signum Pallados, eius",
+            "1":"quique Iovem fecit; tertia palma ego sum. sum",
+            "2":"dea quae rara et paucis occasio nota.",
+            "3":"quid rotulae insistis? stare loco nequeo,",
+            "4":"quid talaria habes? volucris sum. Mercurius quae ",
+            "5":"fortunare solet, trado ego, cum volui,",
+            "6":"crine tegis faciem, cognosci nolo. sed heus tu",
+            "7":"occipiti calvo es? ne tenear fugiens,",
+            "8":"quae tibi iuncta comes? dicat tibi. dic rogo, quae sis.",
+            "9":"sum dea, cui nomen nec Cicero ipse dedit. ",
+            "10":"sum dea, quae factique et non facti exigo poenas,",
+            "11":"nempe ut paeniteat, sic METANOEA vocor.",
+            "12":"tu modo dic, quid agat tecum, quandoque volavi,",
+            "13":"haec manet; hanc retinent, quos ego praeterii.",
+            "14":"tu quoque dum rogitas, dum percontando moraris, 15",
+            "15":"elapsam dices me tibi de manibus."
+        },
+        "33":{
+            "0":"DICEBAM tibi: “Galla, senescimus; effugit aetas,",
+            "1":"utere rene tuo: casta puella anus est.”",
+            "2":"sprevisti. obrepsit non intellecta senectus",
+            "3":"nec revocare potes, qui periere, dies.",
+            "4":"nunc piget et querens, quod non aut ista voluntas ",
+            "5":"tunc fuit, aut non est nunc ea forma tibi.",
+            "6":"da tamen amplexus oblitaque gaudia iunge",
+            "7":"da: fruar, et si non quod volo, quod volui."
+        },
+        "34":{
+            "0":"TRINACUM quondam currentem in litoris ora",
+            "1":"ante canes leporem caeruleus rapuit,",
+            "2":"at lepus: “ In me omnis terrae pelagique rapina est,",
+            "3":"forsitan et caeli; si canis astra tenet.”"
+        },
+        "35":{
+            "0":"CAPTUS FUERNT",
+            "1":"TAM segnis scriptor, quam lentus, Pergame, cursor,",
+            "2":"fugisti et primo captus es in stadio.",
+            "3":"ergo notas scripto tolerasti, Pergame, vultu",
+            "4":"et quas neglexit dextera, frons patitur."
+        },
+        "36":{
+            "0":"PERGAME, non recte punitus fronte subisti",
+            "1":"supplicium, lentae quod meruere manus.",
+            "2":"at tu, qui dominus, peccantia membra coherce:",
+            "3":"iniustum falsos excruciare reos.",
+            "4":"aut inscribe istam, quae non vult scribere, dextram,",
+            "5":"aut profugos ferri pondere nocte pedes."
+        },
+        "37":{
+            "0":"CANUS rogabat Laidis noctem Myron:",
+            "1":"tulit repulsam protinus",
+            "2":"causamque sensit et caput fuligine",
+            "3":"fucavit atra candidum,",
+            "4":"idemque vultu, crine non idem Myron ",
+            "5":"orabat oratum prius,",
+            "6":"sed illa formam cum capillo comparatis",
+            "7":"similemque, non ipsum, rata",
+            "8":"(fortasse et ipsum, sed volens ludo frui)",
+            "9":"sic est adorta callidum: ",
+            "10":"“Inepte, quid me, quod recusari, rogas?",
+            "11":"patri negavi iam tuo.”"
+        },
+        "38":{
+            "0":"EIUS UXOR",
+            "1":"LAIDAS et Glyceras, lascivae nomina famae.",
+            "2":"coniunx in nostro carmine eum legeret,",
+            "3":"ludere me dixit falsoque in amore iocari.",
+            "4":"tanta illi nostra est de probitate fides."
+        },
+        "39":{
+            "0":"UXOR, vivamus quod viximus, et teneamus",
+            "1":"nomina, quae primo sumpsimus in thalamo:",
+            "2":"nec ferat ulla dies, ut commutemur in aevo;",
+            "3":"quin tibi sim iuvenis tuque puella mihi.",
+            "4":"Nestore sim quamvis provectior aemulaque annis ",
+            "5":"vineas Cumauam tu quoque Deiphoben;",
+            "6":"nos ignoremus, quid sit matura senectus.",
+            "7":"scire aevi meritum, non numerare decet."
+        },
+        "40":{
+            "0":"QUI primus, MEROE, nomen tibi condidit, ille",
+            "1":"Thesidae nomen condidit Hippolyto,",
+            "2":"nam divinare est, nomen componere, quod sit",
+            "3":"fortunae et morum vel necis indicium.",
+            "4":"Protesilae, tibi nomen sic fata dederunt, ",
+            "5":"victima quod Troiae prima futurus eras.",
+            "6":"ldmona quod vatem, medicum quod Iapyga dicunt,",
+            "7":"discendas artes nomina praeveniunt.",
+            "8":"et tu sic Meroe, non quod sis atra colore,",
+            "9":"ut quae Niliaea nascitur in Meroe; ",
+            "10":"infusum sed quod vinum non diluis undis,",
+            "11":"potare imnixtum sueta merumque merum."
+        },
+        "41":{
+            "0":"ME lapidem quondam Persae advexere, tropaeum",
+            "1":"ut fierem bello: nunc ego sum Nemesis.",
+            "2":"ac sicut Graecis victoribus adsto tropaeum,",
+            "3":"punio sic Persas vaniloquos Nemesis."
+        },
+        "42":{
+            "0":"EXCIPS adverso quod pectore vulnera septem,",
+            "1":"arma super velleris quod, Thrasybule, tua,",
+            "2":"non dolor hic patris est, Pitanae sed gloria maior.",
+            "3":"rarum, tam pulchro funere posse frui.",
+            "4":"quem postquam maesto socii posuere feretro, ",
+            "5":"talia magnanimus edidit orsa pater:",
+            "6":"“Flete alios, natus lacrimis non indiget ullis.",
+            "7":"et meus, et talis, et Lacedaemonio.”"
+        },
+        "43":{
+            "0":"MAGNANIMA",
+            "1":"MATER Lacaena clipeo obarmans filium,",
+            "2":"\n Cum hoc, inquit, aut in hoc redi. \n "
+        },
+        "44":{
+            "0":"QUIDAM superbus opibus et fastu tumens",
+            "1":"tantumque verbis nobilis",
+            "2":"spernit vigentis clara saecli nomina,",
+            "3":"antiqua captans stemmata,",
+            "4":"Martem Remumque et conditorem Romulum",
+            "5":"privos parentes nuneupans.",
+            "6":"hos ille Serum veste contexi iubet:",
+            "7":"hos caelat argento gravi,",
+            "8":"ceris inurens ianuarum limina",
+            "9":"et atriorum pegmata. ",
+            "10":"credo, quod illi nec pater certus fuit",
+            "11":"et mater est vere lupa."
+        },
+        "45":{
+            "0":"INVENTOR primus Cynices ego. “Quae ratio istaec",
+            "1":"Alcides multo dicitur esse prior.”",
+            "2":"Alcida quondam fueram doctore secundus:",
+            "3":"nunc ego sum Cynices primus, et ille deus."
+        },
+        "46":{
+            "0":"DISCIPULUS melior nulli meliorve magister",
+            "1":"\n εἰσ ἀρετὴν συνέβη καὶ Κυνικὴν σοφίην .",
+            "2":"dicere me novit verum, qui novit utrumque,",
+            "3":"\n καὶ θεὸν Ἀλκείδην, καὶ κύνα Διογένην ."
+        },
+        "47":{
+            "0":"OGYGIDAE 1 me Bacchum vocant,",
+            "1":"Osirin Aegypti putant,",
+            "2":"Mysi Phanacen nominant,",
+            "3":"Dionyson Indi existimant,",
+            "4":"Romana sacra Liberum, ",
+            "5":"Arabica gens Adoneum,",
+            "6":"Lucaniacus Pantheum."
+        },
+        "48":{
+            "0":"\n Αἰγυπιίων μὲν Ὄσιρισ ἐγώ, Μυσῶν δὲ\n Φανάκησ ,",
+            "1":"\n Βάκχοσ ἐνὶ ζωοῖσιν, ἐνὶ φθιμένοισιν\n Ἀδωνεύσ ,",
+            "2":"\n πυρογενής, δίκερως, Τυτανολέτης, Διόνυσοσ ."
+        },
+        "49":{
+            "0":"\n Αἲξ χίμαροσ πήδη ποιμὴν ῤαβδοῦχοσ ἐλαίη εἶσ λίθοσ ἐκ\n πάντων λιτὸσ ἐγὼ Κορυδών ."
+        },
+        "50":{
+            "0":"LESBIA Pieriis Sappho soror addita Musis,",
+            "1":"\n εἰμ' ἐνάτη λυρικῶν, Ἀονίδων δεκάτη ."
+        },
+        "51":{
+            "0":"ORTA salo, suscepta solo, patre edita Caelo,",
+            "1":"Aeneadum genetrix, hic habito alma Venus."
+        },
+        "52":{
+            "0":"LAUDET Achaemenias orientis gloria telas:",
+            "1":"molle aurum pallis, Graecia, texe tuis;",
+            "2":"non minus Ausoniam celebret dum fama Sabinam.",
+            "3":"parcentem magnis sumptibus, arte parem."
+        },
+        "53":{
+            "0":"SIVE probas Tyrio textam subtemine vestem",
+            "1":"seu placet inscripti commoditas tituli.",
+            "2":"ipsius hoc dominae concinnat utrumque venustas,",
+            "3":"has geminas artes una Sabina colit."
+        },
+        "54":{
+            "0":"LICIA qui texunt et carmina, carmina Musis,",
+            "1":"licia contribuunt, casta Minerva, tibi.",
+            "2":"ast ego rem sociam non dissociabo Sabina,",
+            "3":"versibus inscripsi quae mea texta meis."
+        },
+        "55":{
+            "0":"HANG volo, quae non vult; illam, quae vult, ego nolo:",
+            "1":"vincere vult animos, non satiare Venus,",
+            "2":"oblatas sperno illecebras. detrecto negatas:",
+            "3":"nec satiare animum nec cruciare volo.",
+            "4":"nec bis cincta Diana placet nec nuda Cythere: ",
+            "5":"illa voluptatis nil habet, haec nimium,",
+            "6":"callida sed mediae Veneris milli venditet artem",
+            "7":"femina, quae iungat, quod volo nolo vocant."
+        },
+        "56":{
+            "0":"\n Χρῆστος, Ἀκίνδυνος, αὐτοαδελφεοί, οἰκτρὰ δὲ,\n τέκνα ,",
+            "1":"moribus umbo malis nomina falsa gerunt:",
+            "2":"\n οὐδ' οὗτοσ χρηδτός, οὐδ' οὗτοσ ἀκίνδυνόσ\n ἐδτιν .",
+            "3":"una potest ambos littera corrigere.",
+            "4":"\n αἴ κεν Χρῆδτός, ἔχῃ παρ' ἀδελφοῦ Ἀκινδύνου\n ἄλφα ,",
+            "5":"\n κίνδυνοσ hic fiet, ἄχρηδτοσ erit."
+        },
+        "57":{
+            "0":"MALE NOMEN IMPOSITUM",
+            "1":"GERMANI fratres sunt, Chrestos, Aeindvnos alter,",
+            "2":"falsum nomen utrique: sed ut verum sit utrique,",
+            "3":"alpha suum Chresto det Acindynos, ipse sine alpha",
+            "4":"permaneat: verum nomen uterque geret."
+        },
+        "58":{
+            "0":"“TRIS uno in lecto: stuprum duo perpetiuntur.",
+            "1":"et duo committunt.” Quattuor esse reor. \n ",
+            "2":"“Falleris: extremis da singula crimina et illum",
+            "3":"bis numera medium, qui facit et patitur.”"
+        },
+        "59":{
+            "0":"EST LATINUM",
+            "1":"QUI REMINISCO putat se dicere posse latine",
+            "2":"hic ubi en scriptum est, faceret cor, si cor haberet."
+        },
+        "60":{
+            "0":"RITUS vocatus rhetor olim ad nuptias,",
+            "1":"celebri ut fit in convivio,",
+            "2":"grammaticae ut artis se peritum ostenderet,",
+            "3":"haec vota dixit nuptiis:",
+            "4":"“Ei masculini et feminini gignite ",
+            "5":"generisque neutri filios.”"
+        },
+        "61":{
+            "0":"LAETA bis octono tibi iam sub consule pubes",
+            "1":"cingebat teneras, Glaucia adulto, genas,",
+            "2":"et iam desieras puer anne puella videri:",
+            "3":"cum properata dies abstulit omne decus,",
+            "4":"sed neque functorum socius miscebere vulgo ",
+            "5":"nec metues Stygios flebilis umbra lacus,",
+            "6":"verum aut Persephonae Cinyreius ibis Adonis,",
+            "7":"aut Iovis Elysii tu Catamitus eris."
+        },
+        "62":{
+            "0":"VIVEBAM: sum facta silex, quae deinde polita",
+            "1":"Praxiteli manibus vivo iterum Niobe,",
+            "2":"reddidit artificis manus omnia, sed sine sensu:",
+            "3":"hunc ego, cum laesi numina, non habui."
+        },
+        "63":{
+            "0":"VENERE",
+            "1":"ARMATAM vidit Venerem Lacedaemone Pallas.",
+            "2":"\n Nunc certemus, ait, iudice vel Paride. \n ",
+            "3":"cui Venus: “ Armatam tu me, temeraria, temnis,",
+            "4":"quae, quo te vici tempore, nuda fui?”"
+        },
+        "64":{
+            "0":"LAIS anus Veneri speculum dico: dignum habeat se",
+            "1":"aeterna aeternum forma ministerium,",
+            "2":"at mihi nullus in hoc usus, quia cernere talem,",
+            "3":"qualis sum, nolo. qualis eram, nequeo."
+        },
+        "65":{
+            "0":"ISTOS tergemino nasci quos cernis ab ovo,",
+            "1":"patribus ambiguis et matribus adsere natos,",
+            "2":"hos genuit Nemesis, sed Leda puerpura fovit:",
+            "3":"Tyndareus pater his et Iuppiter: hic putat, hic scit."
+        },
+        "66":{
+            "0":"VERA Venus Gnidiam cum vidit Cyprida. dixit:",
+            "1":"\n Vidisti nudam me, puto, Praxitele. \n ",
+            "2":"“Non vidi, nec fas: sed ferro opus omne polimus.",
+            "3":"ferrum Gradivi Martis in arbitrio,",
+            "4":"qualem igitur domino scierant placuisse Cytheren, ",
+            "5":"talem fecerunt ferrea caela deam.”"
+        },
+        "67":{
+            "0":"BUCULA sum, caelo genitoris facta Myronis",
+            "1":"aerea: nec factam me puto, sed genitam.",
+            "2":"sic me taurus init, sic proxima bucula mugit.",
+            "3":"sic vitulus sitiens ubera nostra petit.",
+            "4":"miraris, quod fallo gregem? gregis ipse magister 5",
+            "5":"inter pascentes me numerare solet."
+        },
+        "68":{
+            "0":"UBERA quid pulsas frigentia matris aenae,",
+            "1":"o vitule, et sucum lactis ab aere petis?",
+            "2":"hunc quoque praestarem, si me pro parte parasset",
+            "3":"exteriore Myron, interiore deus."
+        },
+        "69":{
+            "0":"DAEDALE, cur vana consumis in arte laborem?",
+            "1":"me potius clausa subice Pasiphae.",
+            "2":"illecebras verae si vis dare, Daedale, vaccae,",
+            "3":"viva tibi species vacca Myronis erit."
+        },
+        "70":{
+            "0":"SUI RITUM",
+            "1":"AEREA mugitum poterat dare vacca Myronis:",
+            "2":"sed timet artificis deterere ingenium,",
+            "3":"fingere nam similem vivae, quam vivere, plus est:",
+            "4":"nec sunt facta dei mira, sed artificis."
+        },
+        "71":{
+            "0":"AEREA bos steteram; mactata est vacca Minervae;",
+            "1":"sed dea proflatam transtulit huc animam,",
+            "2":"et modo sum duplex: pars aerea, pars animata.",
+            "3":"haec manus artificis dicitur, illa deae."
+        },
+        "72":{
+            "0":"Quid me, taure, paras specie deeeptus inire?",
+            "1":"non sum ego Minoae maehina Pasiphaae."
+        },
+        "73":{
+            "0":"NECDUM caduco sole, iam sub vespere,",
+            "1":"ageret iuveneas cum domum pastor suas.",
+            "2":"suam relinquens me monebat ut suam."
+        },
+        "74":{
+            "0":"UNAM iuvencam pastor forte amiserat,",
+            "1":"numerumque iussus reddere",
+            "2":"me defuisse conquerebatur, sequi",
+            "3":"quae noluissem ceteras."
+        },
+        "75":{
+            "0":"VALLEBANAE (nova res et vix credenda poctis.",
+            "1":"sed quae de vera promitur historia)",
+            "2":"femineam in speciem convertit masculus ales",
+            "3":"pavaque de pavo constitit ante oculos,",
+            "4":"cuncti admirantur monstrum: sed mollior agna ",
+            "5":"\n talia virginea voce puella refert:1 \n ",
+            "6":"“Quid stolidi ad speciem notae novitatis hebeti?",
+            "7":"an vos Nasonis carmina non legitis?",
+            "8":"Caenida convertit proles Saturnia Consus",
+            "9":"ambiguoque fuit corpore Tiresias.",
+            "10":"vidit semivirum fons Salmacis Hermaphroditum",
+            "11":"vidit nubentem Plinius Androgynum.",
+            "12":"nec satis antiquum, quod Campana in Benevento",
+            "13":"unus epheborum virgo repente fuit.",
+            "14":"nolo tamen veteris documenta arcessere famae. ",
+            "15":"ecce ego sum factus femina de puero.”"
+        },
+        "76":{
+            "0":"“ Pythagora Euphorbi, reparas qui semina rerum",
+            "1":"corporibusque novis das reduces animas,",
+            "2":"dic, quid erit Marcus iam fata novissima functus,",
+            "3":"si redeat vitam rursus in aeriam? ”",
+            "4":"“ Quis Marcus? \" \" Feles nuper pullaria dictus,",
+            "5":"corrupit totum qui puerile secus,",
+            "6":"perversae Veneris postico vulnere fossor,",
+            "7":"Lucili vatis subpilo pullipremo.”",
+            "8":"“ Non taurus, non mulus erit, non hippocamelus,",
+            "9":"non caper aut aries, sed scarabaeus erit.”"
+        },
+        "77":{
+            "0":"LAMBERE cum vellet mediorum membra virorum",
+            "1":"Castor nec posset vulgus habere domi,",
+            "2":"repperit, ut nullum fellator perderet inguen:",
+            "3":"uxoris coepit lingere membra suae."
+        },
+        "78":{
+            "0":"PRAETER legitimi genialia foedera coetus",
+            "1":"repperit obscenas veneres vitiosa libido:",
+            "2":"Herculis heredi quam Lemnia suasit egestas,",
+            "3":"quam toga facundi scaenis agitavit Afrani",
+            "4":"et quam Nolanis capitalis luxus inussit. ",
+            "5":"Crispa tamen cunetas exercet corpore in uno:",
+            "6":"deglubit, fellat, molitur per utramque cavernam,",
+            "7":"ne quid inexpertum frustra moritura relinquat."
+        },
+        "79":{
+            "0":"LANGUENTI Marco dixit Diodorus haruspex",
+            "1":"ad vitam non plus sex superesse dies.",
+            "2":"sed medicus divis fatisque potentior Alcon",
+            "3":"falsum convicit illico haruspicium",
+            "4":"tractavitque manum victuri, ni tetigisset; ",
+            "5":"illico nam Marco sex periere dies."
+        },
+        "80":{
+            "0":"ALCON hesterno signum Iovis attigit, ille",
+            "1":"quamvis marmoreus vim patitur medici.",
+            "2":"ecce hodie iussus transferri e sede vetusta",
+            "3":"effertur. quamvis sit deus atque lapis."
+        },
+        "81":{
+            "0":"EUNE, quid adfectus vendentem Phyllida odores?",
+            "1":"dicetis hanc mediam lambere, non molere.",
+            "2":"perspice, ne mercis fallant te nomina, vel ne",
+            "3":"aere Seplasiae decipiare cave,",
+            "4":"dum κύσθον κόστον que putas communis\n odoris ",
+            "5":"el nardium ac sardas esse sapore pari."
+        },
+        "82":{
+            "0":"Diversa infelix et lambit et olfacit Eunus:",
+            "1":"dissimilem olfactum naris et oris habet."
+        },
+        "83":{
+            "0":"BENE NEC MALE OLERE",
+            "1":"SALGAMA non hoc sunt, quod balsama: cedite odores,",
+            "2":"nec male olere mihi, nec bene olere placet."
+        },
+        "84":{
+            "0":"LAIS Eros et Itys, Chiron et Eros, Itys alter",
+            "1":"nomina si scribis, prima elementa adime.",
+            "2":"ut facias verbum, quod tu facis, Eune magister,",
+            "3":"dicere me Latium non decet opprobrium."
+        },
+        "85":{
+            "0":"LAMBEBAT",
+            "1":"EUNE, quod uxoris gravidae putria inguina lambis,",
+            "2":"festinas glossas non natis tradere natis."
+        },
+        "86":{
+            "0":"EUNUS Syriscus, inguinum ligurritor.",
+            "1":"opicus magister (sic eum docet Phyllis)",
+            "2":"muliebre membrum quadrangulum cernit:",
+            "3":"triquetro coactu . Δ . litteram ducit.",
+            "4":"de valle femorum altrinsecus pares rugas ",
+            "5":"mediumque, fissi rima qua patet, callem",
+            "6":". Ψ . dicit esse: nam trifissilis forma\n est.",
+            "7":"cui ipse linguam cum dedit suam, . Λ .\n est:",
+            "8":"veramque in illis esse . Φ . notam\n .sentit.",
+            "9":"quid, imperite, P. putas ibi scriptum, ",
+            "10":"ubi locari .I. convenit longum?",
+            "11":"miselle doctor, 8. tibi sit obsceno,",
+            "12":"tuumque nomen . Θ . sectilis signet."
+        },
+        "87":{
+            "0":"DEFORMEM quidam te dicunt, Crispa: ego istud",
+            "1":"nescio: mi pulchra es, iudice me satis est.",
+            "2":"quin etiam cupio, iunctus quia zelus amori est.",
+            "3":"ut videare aliis foeda, deeora mihi."
+        },
+        "88":{
+            "0":"SIT milli talis amica velim,",
+            "1":"iurgia quae temere incipiat,",
+            "2":"nec student quasi casta loqui:",
+            "3":"pulcra procax petulante manu,",
+            "4":"verbera quae ferat et regerat ",
+            "5":"caesaque ad oscula confugiat.",
+            "6":"nam nisi moribus his fuerit,",
+            "7":"casta modesta pudenter agens,",
+            "8":"dicere abominor, uxor erit."
+        },
+        "89":{
+            "0":"Hoc, quod amare vocant, solve aut misceto. Cupido:",
+            "1":"aut neutrum flammis ure vel ure duo."
+        },
+        "90":{
+            "0":"Aut restingue ignem, quo torreor, alma Dione,",
+            "1":"aut transire iube: vel fac utrimque parem."
+        },
+        "91":{
+            "0":"ADULTERAM",
+            "1":"Iuris consulto, cui vivit adultera coniunx,",
+            "2":"paria a lex placuit, iulia displicuit,",
+            "3":"quaeritis, unde haec sit distantia? seemivir ipse",
+            "4":"scantin iam metuens non metuit titiam."
+        },
+        "92":{
+            "0":"Inguina quod calido levas tibi dropace, causa est:",
+            "1":"irritant volsas levia membra lupas.",
+            "2":"sed quod et elixo plantaria podice vellis",
+            "3":"et teris incusas pumice Clazomenas,",
+            "4":"causa latet: bimarem nisi quod patientia morbum ",
+            "5":"adpetit et tergo femina, pube vir es."
+        },
+        "93":{
+            "0":"SEMIVIR uxorem duxisti, Zoile, moecham:",
+            "1":"o quantus fiet quaestus utrimque domi,",
+            "2":"cum dabit uxori molitor tuus et tibi adulter,",
+            "3":"quantum deprensi damna pudoris ement!",
+            "4":"sed modo quae vobis lucrosa libido videtur,",
+            "5":"iacturam senio mox subeunte feret:",
+            "6":"incipient operas conducti vendere moechi,",
+            "7":"quos modo munificos lena iuventa tenet."
+        },
+        "94":{
+            "0":"Doctus Hylas caestu, Phegeus catus arte palaestrae,",
+            "1":"clarus Olympiacis et Lycus in stadiis,",
+            "2":"an possent omnes venturo vincere agone,",
+            "3":"Hammonem Libyae consuluere deum.",
+            "4":"sed deus, ut sapiens: “ Dabitur victoria vobis",
+            "5":"indubitata equidem, si caveatis” ait,",
+            "6":"“ne quis Hylam eaestu, ne quis certamine luctae",
+            "7":"Phegea, ne cursu te, Lyce, praetereat.”"
+        },
+        "95":{
+            "0":"PUNICA turgentes redimibat zona papillas",
+            "1":"Hermiones: zonae textum elegeon erat:",
+            "2":"“ Qui legis hunc titulum, Paphie tibi mandat, ames me",
+            "3":"exemploque tuo neminem amare vetes.”"
+        },
+        "96":{
+            "0":"ADSPICE, quam blandae neeis ambitione fruatur",
+            "1":"letifera experiens gaudia pulcher Hylas.",
+            "2":"oscula et infestos inter moriturus amores",
+            "3":"ancipites patitur Naidas Eumenidas."
+        },
+        "97":{
+            "0":"FURTTIS proeaees Naides amore saevo et irrito:",
+            "1":"ephebus iste flos erit."
+        },
+        "98":{
+            "0":"Si cuperes alium, posses. Narcisso, potiri,",
+            "1":"nunc tibi amoris adest copia, fructus abest."
+        },
+        "99":{
+            "0":"QUID non ex huius forma pateretur amator,",
+            "1":"ipse suam qui sic deperit effigiem?"
+        },
+        "100":{
+            "0":"COMMORITUR, Narcisse, tibi resonabilis Echo,",
+            "1":"vocis ad extremos exanimata modos:",
+            "2":"et pereuntis adhuc gemitum resecuta querellis.",
+            "3":"ultima nunc etiam verba loquentis amat."
+        },
+        "101":{
+            "0":"MERCURIO genitore satus, genetrice Cythere. ",
+            "1":"nominis ut mixti, sic corporis Hermaphroditus.",
+            "2":"concretus sexu, sed non perfectus, utroque:",
+            "3":"ambiguae Veneris, neutro potiendns amori."
+        },
+        "102":{
+            "0":"HERMAPHRODTTO",
+            "1":"SALMACIS optato concreta est nympha marito.",
+            "2":"felix virgo, sibi si scit inesse virum:",
+            "3":"et tu formosae, iuvenis, permixte puellae",
+            "4":"bis felix, unum si licet esse duos."
+        },
+        "103":{
+            "0":"PONE arcum, Paean, celeresque reconde sagittas:",
+            "1":"non te virgo fugit, sed tua tela timet."
+        },
+        "104":{
+            "0":"INVIDE, cur properas. cortex, operire puellam:",
+            "1":"laurea debetur Phoebo, si virgo negatur."
+        },
+        "105":{
+            "0":"THERMARUM in solio si quis Polygitona vidit",
+            "1":"ulcera membrorum scabie putrefacta foventem,",
+            "2":"praeposuit cunctis spectacula talia ludis.",
+            "3":"Principio tremulis gannitibus aera pulsat",
+            "4":"verbaque lascivos meretricum imitantia coetus ",
+            "5":"vibrat et obscenae numeros pruriginis implet.",
+            "6":"brachia deinde rotat velut enthea daemone Maenas;",
+            "7":"pectus, crura, latus, ventrem, femora, inguina, suras,",
+            "8":"tergum, colla, umeros, luteae Symplegadis antrum.",
+            "9":"tam diversa locis vaga earnificina pererrat, ",
+            "10":"donec marcentem calidi fervore lavacri",
+            "11":"blandus letali solvat dulcedine morbus.",
+            "12":"desectos sic fama viros, ubi cassa libido",
+            "13":"femineos coetus et non sua bella lacessiti",
+            "14":"irrita vexato consumere gaudia lecto, ",
+            "15":"titillata brevi cum iam sub fine voluptas",
+            "16":"fervet et ingesto peragit ludibria morsu:",
+            "17":"torpida non aliter Polygiton membra rescivit.",
+            "18":"et, quia debentur suprema piacula vitae,",
+            "19":"ad Phlegethonteas sese iam praeparet undas. "
+        },
+        "106":{
+            "0":"SILVIUS ille Bonus, qui carmina nostra Incessit,",
+            "1":"nostra magis meruit disticha, Brito bonus."
+        },
+        "107":{
+            "0":"SILVIUS hic Bonus est. Quis Sibilis? Iste Britannus.",
+            "1":"\n Aut Brito hic non est Silvius, aut malus est. \n "
+        },
+        "108":{
+            "0":"SILVIUS esse Bonus fertur ferturque Britannus:",
+            "1":"quis credat civem degenerasse bonum?"
+        },
+        "109":{
+            "0":"NEMO bonus Brito est. si simplex Silvius esse",
+            "1":"incipiat, simplex desinat esse bonus."
+        },
+        "110":{
+            "0":"SILVIUS hic Bonus est, sed Brito est Silvius idem:",
+            "1":"simplicior res est, credite, Brito malus."
+        },
+        "111":{
+            "0":"SILVI, Brito Bonus: quamvis homo non bonus esse",
+            "1":"fertis nec <se quit> iungere Brito Bono."
+        }
+    },
+    "edition":"Ausonius, Decimus Magnus, creator; Evelyn-White, Hugh G. (Hugh Gerard), d. 1924, editor",
+    "englishTitle":"Epigrammaton Liber",
+    "source":"Perseus Digital Library",
+    "originalTitle":"Epigrammaton Liber",
+    "original-urn":"urn:cts:latinLit:stoa0045.stoa010.perseus-lat2",
+    "language":"latin",
+    "sourceLink":"http://www.perseus.tufts.edu/hopper/",
+    "urn":"urn:cts:latinLit:stoa0045.stoa010.perseus-lat2-simple"
+}

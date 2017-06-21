@@ -1,0 +1,69 @@
+{
+    "meta":"poem-line",
+    "author":"ausonius, decimus magnus.",
+    "text":{
+        "0":{
+            "0":"\n Pervincis tandem et operta musarum mearum, quae initiorum velabat obscuritas, quamquam non profanus, irrumpis, Paule carissime, \n quamvis enim te non eius vulgi existimem, quod Horatius arcet ingressu, tamen sua cuique sacra, neque idem Cereri, quod Libero, \n etiam sub isdem cultoribus, poematia, quae in alumnam meam luseram rudia et incohata ad domesticae solacium cantilenae, cum sine metu \n laterent \n et arcana securitate fruerentur, proferre ad lucem caligantia coegisti. verecundiae meae scilicet spolium \n concupisti, aut, quantum tibi in me iuris esset, ab invito indicari. ne tu Alexandri Macedonis pervicaciam supergressus, qui, fatalis iugi lora\n \n cum solvere non posset, abscidit et Pythiae specum, quo die fas non erat patere, penetravit. Utere igitur ut tuis, pari iure, sed fiducia dispari: \n quippe tua possunt populum non timere; meis etiam intra me erubesco, vale.\n \n "
+        },
+        "1":{
+            "0":"UT voluisti, Paule, cunctos Bissulae versus habes,",
+            "1":"lusimus quos in Suebae gratiam virgunculae,",
+            "2":"otium magis foventes, quam studentes gloriae,",
+            "3":"tu molestus flagitator lege molesta carmina,",
+            "4":"tibi, quod intristi, exedendum est : sic vetus verbum iubet, ",
+            "5":"compedes, quas ipse fecit, ipsus ut gestet faber."
+        },
+        "2":{
+            "0":"CARMINIS incompti tenuem lecture libellum,",
+            "1":"pone supercilium,",
+            "2":"seria contractis expende poemata rugis:",
+            "3":"nos Thymelen sequimur.",
+            "4":"Bissula in hoc scedio cantabitur, haut Erasinus: ",
+            "5":"admoneo, ante bibas,",
+            "6":"ieiunis nil scribo; meum post pocula si quis",
+            "7":"legerit, hic sapiet.",
+            "8":"sed magis hic sapiet, si dormiet et putet ista",
+            "9":"somnia missa sibi. "
+        },
+        "3":{
+            "0":"BISSULA, trans gelidum stirpe et lare prosata Rhenum,",
+            "1":"conscia nascentis Bissula Danuvii,",
+            "2":"capta manu, sed missa manu dominatur in eius",
+            "3":"deliciis, cuius bellica praeda fuit.",
+            "4":"matre carens, nutricis egens, quae nescit herai ",
+            "5":"imperium, domini quae regit ipsa domum, \n \n ",
+            "6":"fortunae ac patriae quae nulla obprobria sensit,",
+            "7":"illico inexperto libera servitio,",
+            "8":"sic Latiis mutata bonis, Germana maneret",
+            "9":"ut facies, oculos caerula, flava comas. ",
+            "10":"ambiguam modo lingua facit, modo forma puellam:",
+            "11":"haec Rheno genitam praedicat, haec Latio."
+        },
+        "4":{
+            "0":"DELICIUM, blanditiae, ludus, amor, voluptas,",
+            "1":"barbara, sed quae Latias vineis alumna pupas,",
+            "2":"Bissula, nomen tenerae rusticulum puellae,",
+            "3":"horridulum non solitis, sed domino venustum."
+        },
+        "5":{
+            "0":"BISSULA nec ceris nec fuco imitabilis ullo",
+            "1":"naturale decus fictae non commodat arti.",
+            "2":"sandyx et cerusa, alias simulate puellas:",
+            "3":"temperiem hanc vultus nescit manus, ergo age, pictor,",
+            "4":"puniceas confunde rosas et lilia misce, ",
+            "5":"quique erit ex illis color aeris, ipse sit oris."
+        },
+        "6":{
+            "0":"PINGERE si nostram, pictor, meditaris alumnam,",
+            "1":"aemula Cecropias ars imitetur apes."
+        }
+    },
+    "edition":"Ausonius, Decimus Magnus, creator; Evelyn-White, Hugh G. (Hugh Gerard), d. 1924, translator, editor; Evelyn-White, Hugh G. (Hugh Gerard), d. 1924, translator",
+    "englishTitle":"Bissula",
+    "source":"Perseus Digital Library",
+    "originalTitle":"Bissula",
+    "original-urn":"urn:cts:latinLit:stoa0045.stoa001.perseus-lat2",
+    "language":"latin",
+    "sourceLink":"http://www.perseus.tufts.edu/hopper/",
+    "urn":"urn:cts:latinLit:stoa0045.stoa001.perseus-lat2-simple"
+}

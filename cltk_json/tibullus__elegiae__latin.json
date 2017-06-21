@@ -1,0 +1,66 @@
+{
+    "meta":"poem-line",
+    "author":"tibullus",
+    "text":{
+        "0":{
+            "0":"Tandem venit amor, qualem texisse pudori",
+            "1":"quam nudasse alicui sit mihi fama magis.",
+            "2":"Exorata meis illum Cytherea Camenis",
+            "3":"attulit in nostrum deposuitque sinum.",
+            "4":"Exsolvit promissa Venus: mea gaudia narret,",
+            "5":"dicetur si quis non habuisse sua.",
+            "6":"Non ego signatis quicquam mandare tabellis,",
+            "7":"ne legat id nemo quam meus ante, velim.",
+            "8":"Sed peccasse iuvat, vultus componere famae",
+            "9":"taedet: cum digno digna fuisse ferar.\n "
+        },
+        "1":{
+            "0":"Invisus natalis adest, qui rure molesto",
+            "1":"et sine Cerintho tristis agendus erit.",
+            "2":"Dulcius urbe quid est? an villa sit apta puellae",
+            "3":"atque Arretino frigidus amnis agro?",
+            "4":"Iam nimium Messalla mei studiose, quiescas,",
+            "5":"non tempestivae, saeve propinque, viae!",
+            "6":"Hic animum sensusque meos abducta relinquo,",
+            "7":"arbitrio quamvis non sinis esse meo.\n "
+        },
+        "2":{
+            "0":"Scis iter ex animo sublatum triste puellae?",
+            "1":"natali Romae iam licet esse suo.",
+            "2":"Omnibus ille dies nobis natalis agatur,",
+            "3":"qui nec opinanti nunc tibi forte venit.\n "
+        },
+        "3":{
+            "0":"Gratum est, securus multum quod iam tibi de me",
+            "1":"permittis, subito ne male inepta cadam.",
+            "2":"Sit tibi cura togae potior pressumque quasillo",
+            "3":"scortum quam Servi filia Sulpicia:",
+            "4":"Solliciti sunt pro nobis, quibus illa dolori est,",
+            "5":"ne cedam ignoto, maxima causa, toro.\n "
+        },
+        "4":{
+            "0":"Estne tibi, Cerinthe, tuae pia cura puellae,",
+            "1":"quod mea nunc vexat corpora fessa calor?",
+            "2":"A! ego non aliter tristes evincere morbos",
+            "3":"optarim, quam te si quoque velle putem.",
+            "4":"At mihi quid prosit morbos evincere, si tu",
+            "5":"nostra potes lento pectore ferre mala?\n "
+        },
+        "5":{
+            "0":"Ne tibi sim, mea lux, aeque iam fervida cura",
+            "1":"ac videor paucos ante fuisse dies,",
+            "2":"si quicquam tota commisi stulta iuventa,",
+            "3":"cuius me fatear paenituisse magis,",
+            "4":"hesterna quam te solum quod nocte reliqui,",
+            "5":"ardorem cupiens dissimulare meum.\n "
+        }
+    },
+    "edition":"Sulpicia, 1st cent. B.C, attributed author; Mahoney, Anne, editor",
+    "englishTitle":"Elegiae",
+    "source":"Perseus Digital Library",
+    "originalTitle":"Elegiae",
+    "original-urn":"urn:cts:latinLit:phi0660.phi003.perseus-lat2",
+    "language":"latin",
+    "sourceLink":"http://www.perseus.tufts.edu/hopper/",
+    "urn":"urn:cts:latinLit:phi0660.phi003.perseus-lat2-simple"
+}

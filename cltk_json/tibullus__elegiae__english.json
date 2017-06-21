@@ -1,0 +1,66 @@
+{
+    "meta":"poem-line",
+    "author":"tibullus",
+    "text":{
+        "0":{
+            "0":"At last the love I've waited for has come.",
+            "1":"(No shame to say so: more to cover up).",
+            "2":"My Camenae called on her in prayer,",
+            "3":"and Cytherea brought him to my heart.",
+            "4":"Venus kept her promise: now she can tell",
+            "5":"my tale of joy to those who don't believe.",
+            "6":"I hardly want to give this letter up",
+            "7":"so no one else sees it before he does.",
+            "8":"I'm glad I did it — why wear a prudish mask,",
+            "9":"as if he wasn't good enough for me!\n "
+        },
+        "1":{
+            "0":"My stupid birthday's here, and I'm supposed",
+            "1":"to go away and leave Cerinthus here.",
+            "2":"What's better than the city? On the farm,",
+            "3":"it's cold and rustic — no place for a girl.",
+            "4":"Messalla, uncle, you're thinking of me,",
+            "5":"but stop it: this is no time for a trip.",
+            "6":"Take me away, I'll leave my heart and mind",
+            "7":"In Rome : what good's free will? You make the rules.\n "
+        },
+        "2":{
+            "0":"You know, that trip's been taken off my mind:",
+            "1":"your girlfriend gets to spend her day in Rome .",
+            "2":"Let's spend the day together, as we hoped:",
+            "3":"we've had the good luck you were waiting for.\n "
+        },
+        "3":{
+            "0":"I should be glad you think that you can cheat:",
+            "1":"what a fool I'd be to fall into your arms.",
+            "2":"Go: court your working girl as she spins her wool",
+            "3":"instead of Sulpicia daughter of Servius.",
+            "4":"My family are concerned I might lose out",
+            "5":"to the affections of an unknown's bed.\n "
+        },
+        "4":{
+            "0":"Cerinthus, do you care that I am sick,",
+            "1":"my body wracked with fever and fatigue?",
+            "2":"I cannot hope that I'll be well again",
+            "3":"unless I think that that's what you want too.",
+            "4":"But if my sickness doesn't worry you,",
+            "5":"what good is it to me to be well again?\n "
+        },
+        "5":{
+            "0":"My light, may you not love me any more",
+            "1":"the way I think you did a few days since,",
+            "2":"if I have ever in my youthful life",
+            "3":"done anything as stupid as I did",
+            "4":"yesterday, when I left you all alone",
+            "5":"because I didn't want to show my love."
+        }
+    },
+    "edition":"Sulpicia, 1st cent. B.C, attributed author; Mahoney, Anne, editor, translator",
+    "englishTitle":"Elegiae",
+    "source":"Perseus Digital Library",
+    "originalTitle":"Elegiae",
+    "original-urn":"urn:cts:latinLit:phi0660.phi003.perseus-eng2",
+    "language":"english",
+    "sourceLink":"http://www.perseus.tufts.edu/hopper/",
+    "urn":"urn:cts:latinLit:phi0660.phi003.perseus-eng2-simple"
+}
